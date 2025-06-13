@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: fusion_node
+Version: 0.1.2
+Summary: Sensor fusion and path planning node for ROS2
+Maintainer: University of Bridgeport
+Maintainer-email: aiorio@my.bridgeport.edu
+License: MIT
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary

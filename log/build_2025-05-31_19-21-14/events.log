@@ -1,0 +1,94 @@
+[0.000000] (-) TimerEvent: {}
+[0.000348] (fusion_node) JobQueued: {'identifier': 'fusion_node', 'dependencies': OrderedDict()}
+[0.000435] (fusion_node) JobStarted: {'identifier': 'fusion_node'}
+[0.019682] (fusion_node) JobProgress: {'identifier': 'fusion_node', 'progress': 'cmake'}
+[0.023094] (fusion_node) Command: {'cmd': ['/usr/bin/cmake', '/home/ubuntu/ros2_ws/src/fusion_node', '-DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros2_ws/src/fusion_node/install/fusion_node'], 'cwd': '/home/ubuntu/ros2_ws/src/fusion_node/build/fusion_node', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'ubuntu'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('WT_PROFILE_ID', '{4ff56d04-d9cf-57ea-bae2-ad396374e7e3}'), ('HOME', '/home/ubuntu'), ('CONDA_SHLVL', '0'), ('OLDPWD', '/home/ubuntu/ros2_ws/src'), ('ROS_PYTHON_VERSION', '3'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('WSL_DISTRO_NAME', 'Ubuntu-22.04'), ('WAYLAND_DISPLAY', 'wayland-0'), ('COLCON_PREFIX_PATH', '/home/ubuntu/ros2_ws/src/install'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'ubuntu'), ('NAME', 'DESKTOP-73TGQD5'), ('WSL_INTEROP', '/run/WSL/387_interop'), ('PULSE_SERVER', 'unix:/mnt/wslg/PulseServer'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('LIBGL_ALWAYS_INDIRECT', '0'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/home/ubuntu/.local/bin:/opt/ros/humble/bin:/home/ubuntu/miniconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin:/mnt/c/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/libnvvp:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0:/mnt/c/WINDOWS/System32/OpenSSH:/mnt/c/Program Files/Microsoft SQL Server/150/Tools/Binn:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn:/mnt/c/Program Files (x86)/Microsoft SQL Server/160/DTS/Binn:/mnt/c/Program Files (x86)/Microsoft SQL Server/160/Tools/Binn:/mnt/c/Program Files/Microsoft SQL Server/160/Tools/Binn:/mnt/c/Program Files/Microsoft SQL Server/160/DTS/Binn:/mnt/c/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Microsoft/VisualStudio/NodeJs:/mnt/c/Program Files/MATLAB/R2024b/runtime/win64:/mnt/c/Program Files/MATLAB/R2024b/bin:/mnt/c/Program Files/dotnet:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/CMake/bin:/mnt/c/Users/Lenovo/anaconda3:/mnt/c/Users/Lenovo/anaconda3/Scripts:/mnt/c/Users/Lenovo/anaconda3/Library/bin:/mnt/c/Program Files/NVIDIA Corporation/Nsight Compute 2024.3.2:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/Program Files/Ninja:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit:/mnt/c/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64:/mnt/c/Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary:/mnt/c/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/130/Tools/Binn:/mnt/c/Program Files (x86)/Microsoft SQL Server/140/Tools/Binn:/mnt/c/Program Files/Microsoft SQL Server/140/Tools/Binn:/mnt/c/Program Files/Microsoft SQL Server/140/DTS/Binn:/mnt/c/Users/Lenovo/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Microsoft/VisualStudio/NodeJs:/mnt/c/Users/Lenovo/.dotnet/tools:/mnt/c/Users/Lenovo/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/libnvvp:/mnt/c/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin:/snap/bin'), ('WT_SESSION', '40ab414c-a1c0-4448-b1b8-339e7dfdbaff'), ('XDG_RUNTIME_DIR', '/run/user/1000/'), ('DISPLAY', '172.17.0.1:0'), ('LANG', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/home/ubuntu/ros2_ws/src/install/camera_node:/home/ubuntu/ros2_ws/src/install/left_node:/home/ubuntu/ros2_ws/src/install/right_node:/home/ubuntu/ros2_ws/src/install/lidar_node:/home/ubuntu/ros2_ws/src/install/imu_node:/home/ubuntu/ros2_ws/src/install/gps_node:/home/ubuntu/ros2_ws/src/install/fusion_node:/opt/ros/humble'), ('CONDA_PYTHON_EXE', '/home/ubuntu/miniconda3/bin/python'), ('SHELL', '/bin/bash'), ('WEBOTS_HOME', '/home/bots/webots'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PWD', '/home/ubuntu/ros2_ws/src/fusion_node/build/fusion_node'), ('CONDA_EXE', '/home/ubuntu/miniconda3/bin/conda'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/ubuntu/ros2_ws/src/install/camera_node/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/src/install/left_node/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/src/install/right_node/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/src/install/lidar_node/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/src/install/imu_node/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/src/install/gps_node/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/src/install/fusion_node/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('WSL2_GUI_APPS_ENABLED', '1'), ('HOSTTYPE', 'x86_64'), ('CMAKE_PREFIX_PATH', '/home/ubuntu/ros2_ws/src/install/fusion_node:/home/ubuntu/ros2_ws/src/install/camera_node:/home/ubuntu/ros2_ws/src/install/left_node:/home/ubuntu/ros2_ws/src/install/right_node:/home/ubuntu/ros2_ws/src/install/lidar_node:/home/ubuntu/ros2_ws/src/install/imu_node:/home/ubuntu/ros2_ws/src/install/gps_node:/opt/ros/humble'), ('WSLENV', 'WT_SESSION:WT_PROFILE_ID:')]), 'shell': False}
+[0.098476] (-) TimerEvent: {}
+[0.198919] (-) TimerEvent: {}
+[0.299365] (-) TimerEvent: {}
+[0.399789] (-) TimerEvent: {}
+[0.500182] (-) TimerEvent: {}
+[0.600628] (-) TimerEvent: {}
+[0.607224] (fusion_node) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[0.700768] (-) TimerEvent: {}
+[0.801183] (-) TimerEvent: {}
+[0.901725] (-) TimerEvent: {}
+[1.002136] (-) TimerEvent: {}
+[1.102540] (-) TimerEvent: {}
+[1.203065] (-) TimerEvent: {}
+[1.303477] (-) TimerEvent: {}
+[1.403893] (-) TimerEvent: {}
+[1.504500] (-) TimerEvent: {}
+[1.604955] (-) TimerEvent: {}
+[1.705352] (-) TimerEvent: {}
+[1.805874] (-) TimerEvent: {}
+[1.839476] (fusion_node) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[1.906064] (-) TimerEvent: {}
+[2.006539] (-) TimerEvent: {}
+[2.106981] (-) TimerEvent: {}
+[2.207381] (-) TimerEvent: {}
+[2.307803] (-) TimerEvent: {}
+[2.408204] (-) TimerEvent: {}
+[2.508646] (-) TimerEvent: {}
+[2.609036] (-) TimerEvent: {}
+[2.647312] (fusion_node) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[2.709370] (-) TimerEvent: {}
+[2.809966] (-) TimerEvent: {}
+[2.910364] (-) TimerEvent: {}
+[3.010759] (-) TimerEvent: {}
+[3.064726] (fusion_node) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[3.075361] (fusion_node) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[3.077934] (fusion_node) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[3.079966] (fusion_node) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[3.086744] (fusion_node) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[3.110992] (-) TimerEvent: {}
+[3.211420] (-) TimerEvent: {}
+[3.311885] (-) TimerEvent: {}
+[3.395784] (fusion_node) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[3.406319] (fusion_node) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[3.406715] (fusion_node) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[3.407417] (fusion_node) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[3.412149] (-) TimerEvent: {}
+[3.457686] (fusion_node) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[3.512286] (-) TimerEvent: {}
+[3.612686] (-) TimerEvent: {}
+[3.713090] (-) TimerEvent: {}
+[3.813531] (-) TimerEvent: {}
+[3.914031] (-) TimerEvent: {}
+[4.007150] (fusion_node) StdoutLine: {'line': b'-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter \n'}
+[4.014265] (-) TimerEvent: {}
+[4.114655] (-) TimerEvent: {}
+[4.215114] (-) TimerEvent: {}
+[4.225444] (fusion_node) StdoutLine: {'line': b'-- Found rclpy: 3.3.16 (/opt/ros/humble/share/rclpy/cmake)\n'}
+[4.232619] (fusion_node) StdoutLine: {'line': b'-- Found sensor_msgs: 4.8.0 (/opt/ros/humble/share/sensor_msgs/cmake)\n'}
+[4.315271] (-) TimerEvent: {}
+[4.415699] (-) TimerEvent: {}
+[4.516105] (-) TimerEvent: {}
+[4.616513] (-) TimerEvent: {}
+[4.698954] (fusion_node) StdoutLine: {'line': b'-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)\n'}
+[4.717067] (-) TimerEvent: {}
+[4.718231] (fusion_node) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[4.748099] (fusion_node) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)\n'}
+[4.793883] (fusion_node) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[4.817219] (-) TimerEvent: {}
+[4.838839] (fusion_node) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[4.917375] (-) TimerEvent: {}
+[4.988317] (fusion_node) StdoutLine: {'line': b'-- Found nav_msgs: 4.8.0 (/opt/ros/humble/share/nav_msgs/cmake)\n'}
+[5.017498] (-) TimerEvent: {}
+[5.026739] (fusion_node) StdoutLine: {'line': b'-- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)\n'}
+[5.117684] (-) TimerEvent: {}
+[5.173443] (fusion_node) StderrLine: {'line': b'\x1b[31mCMake Error at /opt/ros/humble/share/ament_cmake_python/cmake/ament_python_install_package.cmake:66 (message):\n'}
+[5.173721] (fusion_node) StderrLine: {'line': b'  ament_python_install_package() the Python package folder\n'}
+[5.173993] (fusion_node) StderrLine: {'line': b"  '/home/ubuntu/ros2_ws/src/fusion_node/fusion_node' doesn't contain an\n"}
+[5.174090] (fusion_node) StderrLine: {'line': b"  '__init__.py' file\n"}
+[5.174175] (fusion_node) StderrLine: {'line': b'Call Stack (most recent call first):\n'}
+[5.174258] (fusion_node) StderrLine: {'line': b'  /opt/ros/humble/share/ament_cmake_python/cmake/ament_python_install_package.cmake:39 (_ament_cmake_python_install_package)\n'}
+[5.174341] (fusion_node) StderrLine: {'line': b'  CMakeLists.txt:27 (ament_python_install_package)\n'}
+[5.174430] (fusion_node) StderrLine: {'line': b'\n'}
+[5.174509] (fusion_node) StderrLine: {'line': b'\x1b[0m\n'}
+[5.174586] (fusion_node) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[5.174675] (fusion_node) StdoutLine: {'line': b'See also "/home/ubuntu/ros2_ws/src/fusion_node/build/fusion_node/CMakeFiles/CMakeOutput.log".\n'}
+[5.183141] (fusion_node) CommandEnded: {'returncode': 1}
+[5.217815] (-) TimerEvent: {}
+[5.224544] (fusion_node) JobEnded: {'identifier': 'fusion_node', 'rc': 1}
+[5.235996] (-) EventReactorShutdown: {}

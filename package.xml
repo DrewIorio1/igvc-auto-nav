@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>fusion_node</name>
+  <version>0.1.2</version>
+  <description>Sensor fusion and path planning node for real robot</description>
+  <maintainer email="your_email@example.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <!-- Declare the build tool (ament_cmake) -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <!-- Runtime dependencies -->
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>nav_msgs</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+  <exec_depend>opencv-python</exec_depend>
+  <exec_depend>torch</exec_depend>
+
+  <!-- Export the build type -->
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

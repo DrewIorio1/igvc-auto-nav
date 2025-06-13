@@ -1,0 +1,2 @@
+"# igvc-auto-nav" 
+The following code was developed for the 2025 IGVC auto navigation competition. It commenced in March 2025, with the objective of completion by the end of May 2025. The code is implemented in Python as a fusion node to perform lane following, object detection, map finding utilizing RRT*, waypoint navigation, and velocity commands for two motors. It was written at the University of Bridgeport with support and assistance from Ali Hamadeen and Rudra Mitra. 

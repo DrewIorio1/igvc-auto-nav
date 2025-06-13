@@ -1,0 +1,2923 @@
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : True Right Encoder is Null True Left Encoder is Null True
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : True Right Encoder is Null True Left Encoder is Null True
+WARNING:root:Fusion Node Initialized
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : True Right Encoder is Null True Left Encoder is Null True
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : True Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0000 rad, x: 0.0000
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0000 rad, x: 0.0000
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0000 rad, x: 0.0000
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0000 rad, x: 0.0001
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0000 rad, x: 0.0001
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0000 rad, x: 0.0002
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0001 rad, x: 0.0002
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0001 rad, x: 0.0003
+WARNING:venv:dt: 0.0050s, θ: -0.0001 rad, x: 0.0004
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0005
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0006
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0007
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0009
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0010
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0011
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0013
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0015
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0017
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0019
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0021
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0023
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0025
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0027
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0030
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0032
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0035
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0037
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0040
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0043
+WARNING:venv:dt: 0.0050s, θ: -0.0002 rad, x: 0.0046
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0003 rad, x: 0.0049
+WARNING:venv:dt: 0.0050s, θ: -0.0003 rad, x: 0.0052
+WARNING:venv:dt: 0.0050s, θ: -0.0003 rad, x: 0.0055
+WARNING:venv:dt: 0.0050s, θ: -0.0003 rad, x: 0.0059
+WARNING:venv:dt: 0.0050s, θ: -0.0003 rad, x: 0.0062
+WARNING:venv:dt: 0.0050s, θ: -0.0003 rad, x: 0.0066
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0003 rad, x: 0.0070
+WARNING:venv:dt: 0.0050s, θ: -0.0003 rad, x: 0.0073
+WARNING:venv:dt: 0.0050s, θ: -0.0003 rad, x: 0.0077
+WARNING:venv:dt: 0.0050s, θ: -0.0003 rad, x: 0.0081
+WARNING:venv:dt: 0.0050s, θ: -0.0003 rad, x: 0.0085
+WARNING:venv:dt: 0.0050s, θ: -0.0003 rad, x: 0.0090
+WARNING:venv:dt: 0.0050s, θ: -0.0004 rad, x: 0.0094
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0004 rad, x: 0.0098
+WARNING:venv:dt: 0.0050s, θ: -0.0004 rad, x: 0.0103
+WARNING:venv:dt: 0.0050s, θ: -0.0004 rad, x: 0.0107
+WARNING:venv:dt: 0.0050s, θ: -0.0004 rad, x: 0.0112
+WARNING:venv:dt: 0.0050s, θ: -0.0004 rad, x: 0.0117
+WARNING:venv:dt: 0.0050s, θ: -0.0004 rad, x: 0.0122
+WARNING:venv:dt: 0.0050s, θ: -0.0004 rad, x: 0.0127
+WARNING:venv:dt: 0.0050s, θ: -0.0004 rad, x: 0.0132
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0005 rad, x: 0.0137
+WARNING:venv:dt: 0.0050s, θ: -0.0005 rad, x: 0.0142
+WARNING:venv:dt: 0.0050s, θ: -0.0005 rad, x: 0.0147
+WARNING:venv:dt: 0.0050s, θ: -0.0005 rad, x: 0.0153
+WARNING:venv:dt: 0.0050s, θ: -0.0005 rad, x: 0.0158
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0005 rad, x: 0.0164
+WARNING:venv:dt: 0.0050s, θ: -0.0005 rad, x: 0.0170
+WARNING:venv:dt: 0.0050s, θ: -0.0005 rad, x: 0.0176
+WARNING:venv:dt: 0.0050s, θ: -0.0005 rad, x: 0.0182
+WARNING:venv:dt: 0.0050s, θ: -0.0005 rad, x: 0.0188
+WARNING:venv:dt: 0.0050s, θ: -0.0005 rad, x: 0.0194
+WARNING:venv:dt: 0.0050s, θ: -0.0005 rad, x: 0.0200
+WARNING:venv:dt: 0.0050s, θ: -0.0005 rad, x: 0.0207
+WARNING:venv:dt: 0.0050s, θ: -0.0006 rad, x: 0.0213
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0006 rad, x: 0.0220
+WARNING:venv:dt: 0.0050s, θ: -0.0006 rad, x: 0.0226
+WARNING:venv:dt: 0.0050s, θ: -0.0006 rad, x: 0.0233
+WARNING:venv:dt: 0.0050s, θ: -0.0006 rad, x: 0.0240
+WARNING:venv:dt: 0.0050s, θ: -0.0006 rad, x: 0.0247
+WARNING:venv:dt: 0.0050s, θ: -0.0006 rad, x: 0.0254
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0006 rad, x: 0.0261
+WARNING:venv:dt: 0.0050s, θ: -0.0006 rad, x: 0.0268
+WARNING:venv:dt: 0.0050s, θ: -0.0006 rad, x: 0.0276
+WARNING:venv:dt: 0.0050s, θ: -0.0006 rad, x: 0.0283
+WARNING:venv:dt: 0.0050s, θ: -0.0006 rad, x: 0.0291
+WARNING:venv:dt: 0.0050s, θ: -0.0007 rad, x: 0.0298
+WARNING:venv:dt: 0.0050s, θ: -0.0007 rad, x: 0.0306
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0007 rad, x: 0.0314
+WARNING:venv:dt: 0.0050s, θ: -0.0007 rad, x: 0.0322
+WARNING:venv:dt: 0.0050s, θ: -0.0007 rad, x: 0.0330
+WARNING:venv:dt: 0.0050s, θ: -0.0007 rad, x: 0.0338
+WARNING:venv:dt: 0.0050s, θ: -0.0007 rad, x: 0.0346
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0008 rad, x: 0.0354
+WARNING:venv:dt: 0.0050s, θ: -0.0008 rad, x: 0.0363
+WARNING:venv:dt: 0.0050s, θ: -0.0008 rad, x: 0.0371
+WARNING:venv:dt: 0.0050s, θ: -0.0008 rad, x: 0.0380
+WARNING:venv:dt: 0.0050s, θ: -0.0008 rad, x: 0.0389
+WARNING:venv:dt: 0.0050s, θ: -0.0008 rad, x: 0.0397
+WARNING:venv:dt: 0.0050s, θ: -0.0008 rad, x: 0.0406
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0008 rad, x: 0.0415
+WARNING:venv:dt: 0.0050s, θ: -0.0008 rad, x: 0.0424
+WARNING:venv:dt: 0.0050s, θ: -0.0009 rad, x: 0.0434
+WARNING:venv:dt: 0.0050s, θ: -0.0009 rad, x: 0.0443
+WARNING:venv:dt: 0.0050s, θ: -0.0009 rad, x: 0.0452
+WARNING:venv:dt: 0.0050s, θ: -0.0009 rad, x: 0.0462
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0009 rad, x: 0.0471
+WARNING:venv:dt: 0.0050s, θ: -0.0009 rad, x: 0.0481
+WARNING:venv:dt: 0.0050s, θ: -0.0009 rad, x: 0.0491
+WARNING:venv:dt: 0.0050s, θ: -0.0009 rad, x: 0.0501
+WARNING:venv:dt: 0.0050s, θ: -0.0009 rad, x: 0.0511
+WARNING:venv:dt: 0.0050s, θ: -0.0009 rad, x: 0.0521
+WARNING:venv:dt: 0.0050s, θ: -0.0009 rad, x: 0.0531
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0009 rad, x: 0.0542
+WARNING:venv:dt: 0.0050s, θ: -0.0009 rad, x: 0.0552
+WARNING:venv:dt: 0.0050s, θ: -0.0010 rad, x: 0.0562
+WARNING:venv:dt: 0.0050s, θ: -0.0010 rad, x: 0.0573
+WARNING:venv:dt: 0.0050s, θ: -0.0010 rad, x: 0.0584
+WARNING:venv:dt: 0.0050s, θ: -0.0010 rad, x: 0.0594
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0011 rad, x: 0.0605
+WARNING:venv:dt: 0.0050s, θ: -0.0011 rad, x: 0.0616
+WARNING:venv:dt: 0.0050s, θ: -0.0011 rad, x: 0.0627
+WARNING:venv:dt: 0.0050s, θ: -0.0011 rad, x: 0.0638
+WARNING:venv:dt: 0.0050s, θ: -0.0012 rad, x: 0.0650
+WARNING:venv:dt: 0.0050s, θ: -0.0012 rad, x: 0.0661
+WARNING:venv:dt: 0.0050s, θ: -0.0012 rad, x: 0.0672
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0012 rad, x: 0.0684
+WARNING:venv:dt: 0.0050s, θ: -0.0012 rad, x: 0.0696
+WARNING:venv:dt: 0.0050s, θ: -0.0012 rad, x: 0.0707
+WARNING:venv:dt: 0.0050s, θ: -0.0012 rad, x: 0.0719
+WARNING:venv:dt: 0.0050s, θ: -0.0012 rad, x: 0.0731
+WARNING:venv:dt: 0.0050s, θ: -0.0012 rad, x: 0.0743
+WARNING:venv:dt: 0.0050s, θ: -0.0012 rad, x: 0.0756
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0012 rad, x: 0.0768
+WARNING:venv:dt: 0.0050s, θ: -0.0012 rad, x: 0.0780
+WARNING:venv:dt: 0.0050s, θ: -0.0013 rad, x: 0.0793
+WARNING:venv:dt: 0.0050s, θ: -0.0013 rad, x: 0.0805
+WARNING:venv:dt: 0.0050s, θ: -0.0013 rad, x: 0.0818
+WARNING:venv:dt: 0.0050s, θ: -0.0013 rad, x: 0.0831
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0014 rad, x: 0.0844
+WARNING:venv:dt: 0.0050s, θ: -0.0014 rad, x: 0.0857
+WARNING:venv:dt: 0.0050s, θ: -0.0014 rad, x: 0.0870
+WARNING:venv:dt: 0.0050s, θ: -0.0014 rad, x: 0.0883
+WARNING:venv:dt: 0.0050s, θ: -0.0014 rad, x: 0.0896
+WARNING:venv:dt: 0.0050s, θ: -0.0014 rad, x: 0.0909
+WARNING:venv:dt: 0.0050s, θ: -0.0014 rad, x: 0.0923
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.0936
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.0950
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.0964
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.0978
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.0992
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.1006
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.1020
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.1034
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.1048
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.1063
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.1077
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.1092
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.1107
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.1121
+WARNING:venv:dt: 0.0050s, θ: -0.0015 rad, x: 0.1136
+WARNING:venv:dt: 0.0050s, θ: -0.0016 rad, x: 0.1151
+WARNING:venv:dt: 0.0050s, θ: -0.0016 rad, x: 0.1166
+WARNING:venv:dt: 0.0050s, θ: -0.0016 rad, x: 0.1182
+WARNING:venv:dt: 0.0050s, θ: -0.0016 rad, x: 0.1197
+WARNING:venv:dt: 0.0050s, θ: -0.0016 rad, x: 0.1212
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1228
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1243
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1259
+WARNING:venv:dt: 0.0050s, θ: -0.0016 rad, x: 0.1275
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1291
+WARNING:venv:dt: 0.0050s, θ: -0.0016 rad, x: 0.1307
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1323
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1339
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1356
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1372
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1389
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1405
+WARNING:venv:dt: 0.0050s, θ: -0.0016 rad, x: 0.1422
+WARNING:venv:dt: 0.0050s, θ: -0.0016 rad, x: 0.1439
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0016 rad, x: 0.1456
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1473
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1490
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1507
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1524
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1542
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1559
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1577
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1594
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1612
+WARNING:venv:dt: 0.0050s, θ: -0.0017 rad, x: 0.1630
+WARNING:venv:dt: 0.0050s, θ: -0.0018 rad, x: 0.1648
+WARNING:venv:dt: 0.0050s, θ: -0.0018 rad, x: 0.1666
+WARNING:venv:dt: 0.0050s, θ: -0.0018 rad, x: 0.1684
+WARNING:venv:dt: 0.0050s, θ: -0.0018 rad, x: 0.1702
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0018 rad, x: 0.1721
+WARNING:venv:dt: 0.0050s, θ: -0.0018 rad, x: 0.1739
+WARNING:venv:dt: 0.0050s, θ: -0.0018 rad, x: 0.1758
+WARNING:venv:dt: 0.0050s, θ: -0.0018 rad, x: 0.1776
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0018 rad, x: 0.1795
+WARNING:venv:dt: 0.0050s, θ: -0.0018 rad, x: 0.1814
+WARNING:venv:dt: 0.0050s, θ: -0.0018 rad, x: 0.1833
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.1852
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.1871
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.1891
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.1910
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.1930
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.1949
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.1969
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.1989
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.2009
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.2028
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.2049
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.2069
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.2089
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.2109
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.2130
+WARNING:venv:dt: 0.0050s, θ: -0.0019 rad, x: 0.2150
+WARNING:venv:dt: 0.0050s, θ: -0.0020 rad, x: 0.2171
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0020 rad, x: 0.2191
+WARNING:venv:dt: 0.0050s, θ: -0.0021 rad, x: 0.2212
+WARNING:venv:dt: 0.0050s, θ: -0.0021 rad, x: 0.2233
+WARNING:venv:dt: 0.0050s, θ: -0.0021 rad, x: 0.2254
+WARNING:venv:dt: 0.0050s, θ: -0.0021 rad, x: 0.2275
+WARNING:venv:dt: 0.0050s, θ: -0.0022 rad, x: 0.2296
+WARNING:venv:dt: 0.0050s, θ: -0.0022 rad, x: 0.2318
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0022 rad, x: 0.2339
+WARNING:venv:dt: 0.0050s, θ: -0.0022 rad, x: 0.2361
+WARNING:venv:dt: 0.0050s, θ: -0.0022 rad, x: 0.2382
+WARNING:venv:dt: 0.0050s, θ: -0.0022 rad, x: 0.2404
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2426
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2448
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2470
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2492
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2514
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2537
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2559
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2582
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2604
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2627
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2650
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2673
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2696
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2719
+WARNING:venv:dt: 0.0050s, θ: -0.0023 rad, x: 0.2742
+WARNING:venv:dt: 0.0050s, θ: -0.0024 rad, x: 0.2765
+WARNING:venv:dt: 0.0050s, θ: -0.0024 rad, x: 0.2789
+WARNING:venv:dt: 0.0050s, θ: -0.0024 rad, x: 0.2812
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0024 rad, x: 0.2836
+WARNING:venv:dt: 0.0050s, θ: -0.0024 rad, x: 0.2860
+WARNING:venv:dt: 0.0050s, θ: -0.0024 rad, x: 0.2883
+WARNING:venv:dt: 0.0050s, θ: -0.0024 rad, x: 0.2907
+WARNING:venv:dt: 0.0050s, θ: -0.0025 rad, x: 0.2931
+WARNING:venv:dt: 0.0050s, θ: -0.0025 rad, x: 0.2955
+WARNING:venv:dt: 0.0050s, θ: -0.0026 rad, x: 0.2980
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0026 rad, x: 0.3004
+WARNING:venv:dt: 0.0050s, θ: -0.0026 rad, x: 0.3028
+WARNING:venv:dt: 0.0050s, θ: -0.0026 rad, x: 0.3053
+WARNING:venv:dt: 0.0050s, θ: -0.0026 rad, x: 0.3077
+WARNING:venv:dt: 0.0050s, θ: -0.0026 rad, x: 0.3102
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0027 rad, x: 0.3127
+WARNING:venv:dt: 0.0050s, θ: -0.0027 rad, x: 0.3151
+WARNING:venv:dt: 0.0050s, θ: -0.0027 rad, x: 0.3176
+WARNING:venv:dt: 0.0050s, θ: -0.0027 rad, x: 0.3201
+WARNING:venv:dt: 0.0050s, θ: -0.0027 rad, x: 0.3227
+WARNING:venv:dt: 0.0050s, θ: -0.0027 rad, x: 0.3252
+WARNING:venv:dt: 0.0050s, θ: -0.0027 rad, x: 0.3277
+WARNING:venv:dt: 0.0050s, θ: -0.0027 rad, x: 0.3303
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0027 rad, x: 0.3328
+WARNING:venv:dt: 0.0050s, θ: -0.0028 rad, x: 0.3354
+WARNING:venv:dt: 0.0050s, θ: -0.0028 rad, x: 0.3380
+WARNING:venv:dt: 0.0050s, θ: -0.0028 rad, x: 0.3406
+WARNING:venv:dt: 0.0050s, θ: -0.0028 rad, x: 0.3432
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0028 rad, x: 0.3458
+WARNING:venv:dt: 0.0050s, θ: -0.0028 rad, x: 0.3484
+WARNING:venv:dt: 0.0050s, θ: -0.0028 rad, x: 0.3510
+WARNING:venv:dt: 0.0050s, θ: -0.0028 rad, x: 0.3536
+WARNING:venv:dt: 0.0050s, θ: -0.0028 rad, x: 0.3563
+WARNING:venv:dt: 0.0050s, θ: -0.0028 rad, x: 0.3590
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0028 rad, x: 0.3616
+WARNING:venv:dt: 0.0050s, θ: -0.0028 rad, x: 0.3643
+WARNING:venv:dt: 0.0050s, θ: -0.0029 rad, x: 0.3670
+WARNING:venv:dt: 0.0050s, θ: -0.0029 rad, x: 0.3697
+WARNING:venv:dt: 0.0050s, θ: -0.0029 rad, x: 0.3724
+WARNING:venv:dt: 0.0050s, θ: -0.0029 rad, x: 0.3751
+WARNING:venv:dt: 0.0050s, θ: -0.0029 rad, x: 0.3778
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0029 rad, x: 0.3806
+WARNING:venv:dt: 0.0050s, θ: -0.0029 rad, x: 0.3833
+WARNING:venv:dt: 0.0050s, θ: -0.0029 rad, x: 0.3860
+WARNING:venv:dt: 0.0050s, θ: -0.0029 rad, x: 0.3888
+WARNING:venv:dt: 0.0050s, θ: -0.0029 rad, x: 0.3916
+WARNING:venv:dt: 0.0050s, θ: -0.0029 rad, x: 0.3944
+WARNING:venv:dt: 0.0050s, θ: -0.0030 rad, x: 0.3972
+WARNING:venv:dt: 0.0050s, θ: -0.0030 rad, x: 0.4000
+WARNING:venv:dt: 0.0050s, θ: -0.0030 rad, x: 0.4028
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0030 rad, x: 0.4056
+WARNING:venv:dt: 0.0050s, θ: -0.0030 rad, x: 0.4084
+WARNING:venv:dt: 0.0050s, θ: -0.0030 rad, x: 0.4113
+WARNING:venv:dt: 0.0050s, θ: -0.0030 rad, x: 0.4141
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4170
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4198
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4227
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4256
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4285
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4314
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4344
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4373
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4402
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4432
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4462
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4491
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4521
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4551
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4581
+WARNING:venv:dt: 0.0050s, θ: -0.0031 rad, x: 0.4611
+WARNING:venv:dt: 0.0050s, θ: -0.0032 rad, x: 0.4642
+WARNING:venv:dt: 0.0050s, θ: -0.0032 rad, x: 0.4672
+WARNING:venv:dt: 0.0050s, θ: -0.0032 rad, x: 0.4702
+WARNING:venv:dt: 0.0050s, θ: -0.0032 rad, x: 0.4733
+WARNING:venv:dt: 0.0050s, θ: -0.0032 rad, x: 0.4763
+WARNING:venv:dt: 0.0050s, θ: -0.0032 rad, x: 0.4794
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0032 rad, x: 0.4825
+WARNING:venv:dt: 0.0050s, θ: -0.0032 rad, x: 0.4856
+WARNING:venv:dt: 0.0050s, θ: -0.0033 rad, x: 0.4887
+WARNING:venv:dt: 0.0050s, θ: -0.0033 rad, x: 0.4918
+WARNING:venv:dt: 0.0050s, θ: -0.0033 rad, x: 0.4949
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0033 rad, x: 0.4980
+WARNING:venv:dt: 0.0050s, θ: -0.0033 rad, x: 0.5012
+WARNING:venv:dt: 0.0050s, θ: -0.0033 rad, x: 0.5043
+WARNING:venv:dt: 0.0050s, θ: -0.0033 rad, x: 0.5075
+WARNING:venv:dt: 0.0050s, θ: -0.0033 rad, x: 0.5106
+WARNING:venv:dt: 0.0050s, θ: -0.0033 rad, x: 0.5138
+WARNING:venv:dt: 0.0050s, θ: -0.0034 rad, x: 0.5170
+WARNING:venv:dt: 0.0050s, θ: -0.0034 rad, x: 0.5202
+WARNING:venv:dt: 0.0050s, θ: -0.0034 rad, x: 0.5234
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0034 rad, x: 0.5266
+WARNING:venv:dt: 0.0050s, θ: -0.0034 rad, x: 0.5299
+WARNING:venv:dt: 0.0050s, θ: -0.0034 rad, x: 0.5331
+WARNING:venv:dt: 0.0050s, θ: -0.0035 rad, x: 0.5363
+WARNING:venv:dt: 0.0050s, θ: -0.0035 rad, x: 0.5396
+WARNING:venv:dt: 0.0050s, θ: -0.0035 rad, x: 0.5429
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0035 rad, x: 0.5461
+WARNING:venv:dt: 0.0050s, θ: -0.0035 rad, x: 0.5494
+WARNING:venv:dt: 0.0050s, θ: -0.0035 rad, x: 0.5527
+WARNING:venv:dt: 0.0050s, θ: -0.0035 rad, x: 0.5560
+WARNING:venv:dt: 0.0050s, θ: -0.0035 rad, x: 0.5594
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0035 rad, x: 0.5627
+WARNING:venv:dt: 0.0050s, θ: -0.0035 rad, x: 0.5660
+WARNING:venv:dt: 0.0050s, θ: -0.0035 rad, x: 0.5694
+WARNING:venv:dt: 0.0050s, θ: -0.0035 rad, x: 0.5727
+WARNING:venv:dt: 0.0050s, θ: -0.0036 rad, x: 0.5761
+WARNING:venv:dt: 0.0050s, θ: -0.0036 rad, x: 0.5795
+WARNING:venv:dt: 0.0050s, θ: -0.0036 rad, x: 0.5829
+WARNING:venv:dt: 0.0050s, θ: -0.0036 rad, x: 0.5863
+WARNING:venv:dt: 0.0050s, θ: -0.0036 rad, x: 0.5897
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0037 rad, x: 0.5931
+WARNING:venv:dt: 0.0050s, θ: -0.0037 rad, x: 0.5965
+WARNING:venv:dt: 0.0050s, θ: -0.0037 rad, x: 0.5999
+WARNING:venv:dt: 0.0050s, θ: -0.0037 rad, x: 0.6034
+WARNING:venv:dt: 0.0050s, θ: -0.0037 rad, x: 0.6068
+WARNING:venv:dt: 0.0050s, θ: -0.0037 rad, x: 0.6103
+WARNING:venv:dt: 0.0050s, θ: -0.0038 rad, x: 0.6138
+WARNING:venv:dt: 0.0050s, θ: -0.0038 rad, x: 0.6173
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0038 rad, x: 0.6207
+WARNING:venv:dt: 0.0050s, θ: -0.0038 rad, x: 0.6242
+WARNING:venv:dt: 0.0050s, θ: -0.0038 rad, x: 0.6278
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0038 rad, x: 0.6313
+WARNING:venv:dt: 0.0050s, θ: -0.0038 rad, x: 0.6348
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6384
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6419
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6455
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6491
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6527
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6562
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6599
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6635
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6671
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6707
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6744
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6780
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6817
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6854
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6891
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6928
+WARNING:venv:dt: 0.0050s, θ: -0.0039 rad, x: 0.6965
+WARNING:venv:dt: 0.0050s, θ: -0.0040 rad, x: 0.7002
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0040 rad, x: 0.7039
+WARNING:venv:dt: 0.0050s, θ: -0.0040 rad, x: 0.7076
+WARNING:venv:dt: 0.0050s, θ: -0.0040 rad, x: 0.7114
+WARNING:venv:dt: 0.0050s, θ: -0.0040 rad, x: 0.7151
+WARNING:venv:dt: 0.0050s, θ: -0.0041 rad, x: 0.7189
+WARNING:venv:dt: 0.0050s, θ: -0.0041 rad, x: 0.7227
+WARNING:venv:dt: 0.0050s, θ: -0.0041 rad, x: 0.7265
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0041 rad, x: 0.7302
+WARNING:venv:dt: 0.0050s, θ: -0.0042 rad, x: 0.7340
+WARNING:venv:dt: 0.0050s, θ: -0.0042 rad, x: 0.7379
+WARNING:venv:dt: 0.0050s, θ: -0.0042 rad, x: 0.7417
+WARNING:venv:dt: 0.0050s, θ: -0.0042 rad, x: 0.7455
+WARNING:venv:dt: 0.0050s, θ: -0.0042 rad, x: 0.7493
+WARNING:venv:dt: 0.0050s, θ: -0.0042 rad, x: 0.7532
+WARNING:venv:dt: 0.0050s, θ: -0.0042 rad, x: 0.7570
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0042 rad, x: 0.7609
+WARNING:venv:dt: 0.0050s, θ: -0.0043 rad, x: 0.7648
+WARNING:venv:dt: 0.0050s, θ: -0.0043 rad, x: 0.7687
+WARNING:venv:dt: 0.0050s, θ: -0.0042 rad, x: 0.7726
+WARNING:venv:dt: 0.0050s, θ: -0.0043 rad, x: 0.7765
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0043 rad, x: 0.7804
+WARNING:venv:dt: 0.0050s, θ: -0.0043 rad, x: 0.7844
+WARNING:venv:dt: 0.0050s, θ: -0.0043 rad, x: 0.7883
+WARNING:venv:dt: 0.0050s, θ: -0.0043 rad, x: 0.7922
+WARNING:venv:dt: 0.0050s, θ: -0.0043 rad, x: 0.7962
+WARNING:venv:dt: 0.0050s, θ: -0.0043 rad, x: 0.8002
+WARNING:venv:dt: 0.0050s, θ: -0.0043 rad, x: 0.8042
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0043 rad, x: 0.8081
+WARNING:venv:dt: 0.0050s, θ: -0.0043 rad, x: 0.8121
+WARNING:venv:dt: 0.0050s, θ: -0.0043 rad, x: 0.8162
+WARNING:venv:dt: 0.0050s, θ: -0.0044 rad, x: 0.8202
+WARNING:venv:dt: 0.0050s, θ: -0.0044 rad, x: 0.8242
+WARNING:venv:dt: 0.0050s, θ: -0.0044 rad, x: 0.8282
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0044 rad, x: 0.8323
+WARNING:venv:dt: 0.0050s, θ: -0.0044 rad, x: 0.8363
+WARNING:venv:dt: 0.0050s, θ: -0.0044 rad, x: 0.8404
+WARNING:venv:dt: 0.0050s, θ: -0.0044 rad, x: 0.8445
+WARNING:venv:dt: 0.0050s, θ: -0.0044 rad, x: 0.8486
+WARNING:venv:dt: 0.0050s, θ: -0.0044 rad, x: 0.8527
+WARNING:venv:dt: 0.0050s, θ: -0.0045 rad, x: 0.8568
+WARNING:venv:dt: 0.0050s, θ: -0.0045 rad, x: 0.8609
+WARNING:venv:dt: 0.0050s, θ: -0.0045 rad, x: 0.8650
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0045 rad, x: 0.8691
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.8733
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.8774
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.8816
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.8858
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.8900
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.8942
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.8984
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.9026
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.9068
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.9111
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.9153
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.9196
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.9238
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.9281
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.9324
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.9367
+WARNING:venv:dt: 0.0050s, θ: -0.0046 rad, x: 0.9410
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0047 rad, x: 0.9453
+WARNING:venv:dt: 0.0050s, θ: -0.0047 rad, x: 0.9496
+WARNING:venv:dt: 0.0050s, θ: -0.0047 rad, x: 0.9540
+WARNING:venv:dt: 0.0050s, θ: -0.0047 rad, x: 0.9583
+WARNING:venv:dt: 0.0050s, θ: -0.0047 rad, x: 0.9627
+WARNING:venv:dt: 0.0050s, θ: -0.0047 rad, x: 0.9670
+WARNING:venv:dt: 0.0050s, θ: -0.0047 rad, x: 0.9714
+WARNING:venv:dt: 0.0050s, θ: -0.0047 rad, x: 0.9758
+WARNING:venv:dt: 0.0050s, θ: -0.0047 rad, x: 0.9802
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0048 rad, x: 0.9846
+WARNING:venv:dt: 0.0050s, θ: -0.0048 rad, x: 0.9890
+WARNING:venv:dt: 0.0050s, θ: -0.0048 rad, x: 0.9934
+WARNING:venv:dt: 0.0050s, θ: -0.0048 rad, x: 0.9979
+WARNING:venv:dt: 0.0050s, θ: -0.0048 rad, x: 1.0023
+WARNING:venv:dt: 0.0050s, θ: -0.0048 rad, x: 1.0068
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0048 rad, x: 1.0112
+WARNING:venv:dt: 0.0050s, θ: -0.0048 rad, x: 1.0157
+WARNING:venv:dt: 0.0050s, θ: -0.0048 rad, x: 1.0202
+WARNING:venv:dt: 0.0050s, θ: -0.0048 rad, x: 1.0247
+WARNING:venv:dt: 0.0050s, θ: -0.0049 rad, x: 1.0292
+WARNING:venv:dt: 0.0050s, θ: -0.0049 rad, x: 1.0337
+WARNING:venv:dt: 0.0050s, θ: -0.0049 rad, x: 1.0382
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0049 rad, x: 1.0427
+WARNING:venv:dt: 0.0050s, θ: -0.0049 rad, x: 1.0473
+WARNING:venv:dt: 0.0050s, θ: -0.0049 rad, x: 1.0518
+WARNING:venv:dt: 0.0050s, θ: -0.0049 rad, x: 1.0564
+WARNING:venv:dt: 0.0050s, θ: -0.0049 rad, x: 1.0610
+WARNING:venv:dt: 0.0050s, θ: -0.0049 rad, x: 1.0655
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0050 rad, x: 1.0701
+WARNING:venv:dt: 0.0050s, θ: -0.0050 rad, x: 1.0747
+WARNING:venv:dt: 0.0050s, θ: -0.0050 rad, x: 1.0793
+WARNING:venv:dt: 0.0050s, θ: -0.0050 rad, x: 1.0840
+WARNING:venv:dt: 0.0050s, θ: -0.0050 rad, x: 1.0886
+WARNING:venv:dt: 0.0050s, θ: -0.0050 rad, x: 1.0932
+WARNING:venv:dt: 0.0050s, θ: -0.0050 rad, x: 1.0979
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0051 rad, x: 1.1026
+WARNING:venv:dt: 0.0050s, θ: -0.0050 rad, x: 1.1072
+WARNING:venv:dt: 0.0050s, θ: -0.0051 rad, x: 1.1119
+WARNING:venv:dt: 0.0050s, θ: -0.0051 rad, x: 1.1166
+WARNING:venv:dt: 0.0050s, θ: -0.0051 rad, x: 1.1213
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0051 rad, x: 1.1260
+WARNING:venv:dt: 0.0050s, θ: -0.0051 rad, x: 1.1307
+WARNING:venv:dt: 0.0050s, θ: -0.0051 rad, x: 1.1355
+WARNING:venv:dt: 0.0050s, θ: -0.0051 rad, x: 1.1402
+WARNING:venv:dt: 0.0050s, θ: -0.0052 rad, x: 1.1450
+WARNING:venv:dt: 0.0050s, θ: -0.0052 rad, x: 1.1497
+WARNING:venv:dt: 0.0050s, θ: -0.0052 rad, x: 1.1545
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0052 rad, x: 1.1593
+WARNING:venv:dt: 0.0050s, θ: -0.0052 rad, x: 1.1641
+WARNING:venv:dt: 0.0050s, θ: -0.0052 rad, x: 1.1689
+WARNING:venv:dt: 0.0050s, θ: -0.0052 rad, x: 1.1737
+WARNING:venv:dt: 0.0050s, θ: -0.0052 rad, x: 1.1785
+WARNING:venv:dt: 0.0050s, θ: -0.0053 rad, x: 1.1833
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0053 rad, x: 1.1881
+WARNING:venv:dt: 0.0050s, θ: -0.0053 rad, x: 1.1930
+WARNING:venv:dt: 0.0050s, θ: -0.0053 rad, x: 1.1978
+WARNING:venv:dt: 0.0050s, θ: -0.0053 rad, x: 1.2027
+WARNING:venv:dt: 0.0050s, θ: -0.0053 rad, x: 1.2076
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2125
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2174
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2223
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2272
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2321
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2371
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2420
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2470
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2519
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2569
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2619
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2669
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2719
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2769
+WARNING:venv:dt: 0.0050s, θ: -0.0054 rad, x: 1.2820
+WARNING:venv:dt: 0.0050s, θ: -0.0055 rad, x: 1.2870
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0055 rad, x: 1.2920
+WARNING:venv:dt: 0.0050s, θ: -0.0055 rad, x: 1.2971
+WARNING:venv:dt: 0.0050s, θ: -0.0055 rad, x: 1.3022
+WARNING:venv:dt: 0.0050s, θ: -0.0055 rad, x: 1.3072
+WARNING:venv:dt: 0.0050s, θ: -0.0056 rad, x: 1.3123
+WARNING:venv:dt: 0.0050s, θ: -0.0056 rad, x: 1.3174
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0056 rad, x: 1.3225
+WARNING:venv:dt: 0.0050s, θ: -0.0056 rad, x: 1.3276
+WARNING:venv:dt: 0.0050s, θ: -0.0056 rad, x: 1.3328
+WARNING:venv:dt: 0.0050s, θ: -0.0056 rad, x: 1.3379
+WARNING:venv:dt: 0.0050s, θ: -0.0056 rad, x: 1.3430
+WARNING:venv:dt: 0.0050s, θ: -0.0056 rad, x: 1.3482
+WARNING:venv:dt: 0.0050s, θ: -0.0056 rad, x: 1.3534
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0057 rad, x: 1.3585
+WARNING:venv:dt: 0.0050s, θ: -0.0057 rad, x: 1.3637
+WARNING:venv:dt: 0.0050s, θ: -0.0057 rad, x: 1.3689
+WARNING:venv:dt: 0.0050s, θ: -0.0057 rad, x: 1.3741
+WARNING:venv:dt: 0.0050s, θ: -0.0057 rad, x: 1.3793
+WARNING:venv:dt: 0.0050s, θ: -0.0057 rad, x: 1.3845
+WARNING:venv:dt: 0.0050s, θ: -0.0057 rad, x: 1.3898
+WARNING:venv:dt: 0.0050s, θ: -0.0057 rad, x: 1.3950
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0058 rad, x: 1.4003
+WARNING:venv:dt: 0.0050s, θ: -0.0058 rad, x: 1.4055
+WARNING:venv:dt: 0.0050s, θ: -0.0058 rad, x: 1.4108
+WARNING:venv:dt: 0.0050s, θ: -0.0058 rad, x: 1.4161
+WARNING:venv:dt: 0.0050s, θ: -0.0058 rad, x: 1.4214
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0058 rad, x: 1.4267
+WARNING:venv:dt: 0.0050s, θ: -0.0058 rad, x: 1.4320
+WARNING:venv:dt: 0.0050s, θ: -0.0058 rad, x: 1.4373
+WARNING:venv:dt: 0.0050s, θ: -0.0058 rad, x: 1.4426
+WARNING:venv:dt: 0.0050s, θ: -0.0059 rad, x: 1.4480
+WARNING:venv:dt: 0.0050s, θ: -0.0059 rad, x: 1.4533
+WARNING:venv:dt: 0.0050s, θ: -0.0059 rad, x: 1.4587
+WARNING:venv:dt: 0.0050s, θ: -0.0059 rad, x: 1.4640
+WARNING:venv:dt: 0.0050s, θ: -0.0059 rad, x: 1.4694
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0059 rad, x: 1.4748
+WARNING:venv:dt: 0.0050s, θ: -0.0060 rad, x: 1.4802
+WARNING:venv:dt: 0.0050s, θ: -0.0060 rad, x: 1.4856
+WARNING:venv:dt: 0.0050s, θ: -0.0060 rad, x: 1.4910
+WARNING:venv:dt: 0.0050s, θ: -0.0060 rad, x: 1.4965
+WARNING:venv:dt: 0.0050s, θ: -0.0060 rad, x: 1.5019
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0060 rad, x: 1.5073
+WARNING:venv:dt: 0.0050s, θ: -0.0060 rad, x: 1.5128
+WARNING:venv:dt: 0.0050s, θ: -0.0061 rad, x: 1.5183
+WARNING:venv:dt: 0.0050s, θ: -0.0061 rad, x: 1.5237
+WARNING:venv:dt: 0.0050s, θ: -0.0061 rad, x: 1.5292
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0061 rad, x: 1.5347
+WARNING:venv:dt: 0.0050s, θ: -0.0061 rad, x: 1.5402
+WARNING:venv:dt: 0.0050s, θ: -0.0061 rad, x: 1.5457
+WARNING:venv:dt: 0.0050s, θ: -0.0061 rad, x: 1.5513
+WARNING:venv:dt: 0.0050s, θ: -0.0061 rad, x: 1.5568
+WARNING:venv:dt: 0.0050s, θ: -0.0062 rad, x: 1.5624
+WARNING:venv:dt: 0.0050s, θ: -0.0062 rad, x: 1.5679
+WARNING:venv:dt: 0.0050s, θ: -0.0062 rad, x: 1.5735
+WARNING:venv:dt: 0.0050s, θ: -0.0062 rad, x: 1.5791
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0062 rad, x: 1.5846
+WARNING:venv:dt: 0.0050s, θ: -0.0063 rad, x: 1.5902
+WARNING:venv:dt: 0.0050s, θ: -0.0063 rad, x: 1.5958
+WARNING:venv:dt: 0.0050s, θ: -0.0063 rad, x: 1.6015
+WARNING:venv:dt: 0.0050s, θ: -0.0063 rad, x: 1.6071
+WARNING:venv:dt: 0.0050s, θ: -0.0063 rad, x: 1.6127
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0063 rad, x: 1.6184
+WARNING:venv:dt: 0.0050s, θ: -0.0063 rad, x: 1.6240
+WARNING:venv:dt: 0.0050s, θ: -0.0063 rad, x: 1.6297
+WARNING:venv:dt: 0.0050s, θ: -0.0063 rad, x: 1.6353
+WARNING:venv:dt: 0.0050s, θ: -0.0063 rad, x: 1.6410
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0063 rad, x: 1.6467
+WARNING:venv:dt: 0.0050s, θ: -0.0063 rad, x: 1.6524
+WARNING:venv:dt: 0.0050s, θ: -0.0063 rad, x: 1.6581
+WARNING:venv:dt: 0.0050s, θ: -0.0064 rad, x: 1.6639
+WARNING:venv:dt: 0.0050s, θ: -0.0064 rad, x: 1.6696
+WARNING:venv:dt: 0.0050s, θ: -0.0064 rad, x: 1.6753
+WARNING:venv:dt: 0.0050s, θ: -0.0064 rad, x: 1.6811
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0064 rad, x: 1.6868
+WARNING:venv:dt: 0.0050s, θ: -0.0064 rad, x: 1.6926
+WARNING:venv:dt: 0.0050s, θ: -0.0064 rad, x: 1.6984
+WARNING:venv:dt: 0.0050s, θ: -0.0064 rad, x: 1.7042
+WARNING:venv:dt: 0.0050s, θ: -0.0064 rad, x: 1.7100
+WARNING:venv:dt: 0.0050s, θ: -0.0064 rad, x: 1.7158
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7216
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7274
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7333
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7391
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7450
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7509
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7567
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7626
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7685
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7744
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7803
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7863
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7922
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.7982
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.8041
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.8101
+WARNING:venv:dt: 0.0050s, θ: -0.0065 rad, x: 1.8161
+WARNING:venv:dt: 0.0050s, θ: -0.0066 rad, x: 1.8221
+WARNING:venv:dt: 0.0050s, θ: -0.0066 rad, x: 1.8281
+WARNING:venv:dt: 0.0050s, θ: -0.0066 rad, x: 1.8341
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0066 rad, x: 1.8401
+WARNING:venv:dt: 0.0050s, θ: -0.0066 rad, x: 1.8461
+WARNING:venv:dt: 0.0050s, θ: -0.0066 rad, x: 1.8522
+WARNING:venv:dt: 0.0050s, θ: -0.0066 rad, x: 1.8582
+WARNING:venv:dt: 0.0050s, θ: -0.0066 rad, x: 1.8643
+WARNING:venv:dt: 0.0050s, θ: -0.0066 rad, x: 1.8703
+WARNING:venv:dt: 0.0050s, θ: -0.0066 rad, x: 1.8764
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0066 rad, x: 1.8825
+WARNING:venv:dt: 0.0050s, θ: -0.0067 rad, x: 1.8886
+WARNING:venv:dt: 0.0050s, θ: -0.0067 rad, x: 1.8947
+WARNING:venv:dt: 0.0050s, θ: -0.0067 rad, x: 1.9008
+WARNING:venv:dt: 0.0050s, θ: -0.0067 rad, x: 1.9069
+WARNING:venv:dt: 0.0050s, θ: -0.0067 rad, x: 1.9131
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0067 rad, x: 1.9192
+WARNING:venv:dt: 0.0050s, θ: -0.0067 rad, x: 1.9254
+WARNING:venv:dt: 0.0050s, θ: -0.0067 rad, x: 1.9315
+WARNING:venv:dt: 0.0050s, θ: -0.0068 rad, x: 1.9377
+WARNING:venv:dt: 0.0050s, θ: -0.0068 rad, x: 1.9439
+WARNING:venv:dt: 0.0050s, θ: -0.0068 rad, x: 1.9501
+WARNING:venv:dt: 0.0050s, θ: -0.0068 rad, x: 1.9563
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0068 rad, x: 1.9625
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 1.9687
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 1.9750
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 1.9812
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 1.9875
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 1.9937
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 2.0000
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 2.0063
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 2.0126
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 2.0189
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 2.0252
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 2.0315
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 2.0379
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 2.0442
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 2.0506
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 2.0569
+WARNING:venv:dt: 0.0050s, θ: -0.0069 rad, x: 2.0633
+WARNING:venv:dt: 0.0050s, θ: -0.0070 rad, x: 2.0697
+WARNING:venv:dt: 0.0050s, θ: -0.0070 rad, x: 2.0761
+WARNING:venv:dt: 0.0050s, θ: -0.0070 rad, x: 2.0825
+WARNING:venv:dt: 0.0050s, θ: -0.0070 rad, x: 2.0889
+WARNING:venv:dt: 0.0050s, θ: -0.0070 rad, x: 2.0953
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0070 rad, x: 2.1017
+WARNING:venv:dt: 0.0050s, θ: -0.0070 rad, x: 2.1082
+WARNING:venv:dt: 0.0050s, θ: -0.0070 rad, x: 2.1146
+WARNING:venv:dt: 0.0050s, θ: -0.0070 rad, x: 2.1211
+WARNING:venv:dt: 0.0050s, θ: -0.0070 rad, x: 2.1276
+WARNING:venv:dt: 0.0050s, θ: -0.0071 rad, x: 2.1340
+WARNING:venv:dt: 0.0050s, θ: -0.0071 rad, x: 2.1405
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0071 rad, x: 2.1470
+WARNING:venv:dt: 0.0050s, θ: -0.0071 rad, x: 2.1535
+WARNING:venv:dt: 0.0050s, θ: -0.0072 rad, x: 2.1601
+WARNING:venv:dt: 0.0050s, θ: -0.0072 rad, x: 2.1666
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0072 rad, x: 2.1731
+WARNING:venv:dt: 0.0050s, θ: -0.0072 rad, x: 2.1797
+WARNING:venv:dt: 0.0050s, θ: -0.0072 rad, x: 2.1862
+WARNING:venv:dt: 0.0050s, θ: -0.0072 rad, x: 2.1928
+WARNING:venv:dt: 0.0050s, θ: -0.0072 rad, x: 2.1994
+WARNING:venv:dt: 0.0050s, θ: -0.0073 rad, x: 2.2060
+WARNING:venv:dt: 0.0050s, θ: -0.0073 rad, x: 2.2126
+WARNING:venv:dt: 0.0050s, θ: -0.0073 rad, x: 2.2192
+WARNING:venv:dt: 0.0050s, θ: -0.0073 rad, x: 2.2258
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0073 rad, x: 2.2324
+WARNING:venv:dt: 0.0050s, θ: -0.0073 rad, x: 2.2391
+WARNING:venv:dt: 0.0050s, θ: -0.0073 rad, x: 2.2457
+WARNING:venv:dt: 0.0050s, θ: -0.0073 rad, x: 2.2524
+WARNING:venv:dt: 0.0050s, θ: -0.0074 rad, x: 2.2591
+WARNING:venv:dt: 0.0050s, θ: -0.0074 rad, x: 2.2657
+WARNING:venv:dt: 0.0050s, θ: -0.0074 rad, x: 2.2724
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0074 rad, x: 2.2791
+WARNING:venv:dt: 0.0050s, θ: -0.0074 rad, x: 2.2858
+WARNING:venv:dt: 0.0050s, θ: -0.0074 rad, x: 2.2926
+WARNING:venv:dt: 0.0050s, θ: -0.0074 rad, x: 2.2993
+WARNING:venv:dt: 0.0050s, θ: -0.0074 rad, x: 2.3060
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0074 rad, x: 2.3128
+WARNING:venv:dt: 0.0050s, θ: -0.0074 rad, x: 2.3195
+WARNING:venv:dt: 0.0050s, θ: -0.0075 rad, x: 2.3263
+WARNING:venv:dt: 0.0050s, θ: -0.0075 rad, x: 2.3331
+WARNING:venv:dt: 0.0050s, θ: -0.0075 rad, x: 2.3399
+WARNING:venv:dt: 0.0050s, θ: -0.0075 rad, x: 2.3467
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0075 rad, x: 2.3535
+WARNING:venv:dt: 0.0050s, θ: -0.0076 rad, x: 2.3603
+WARNING:venv:dt: 0.0050s, θ: -0.0076 rad, x: 2.3671
+WARNING:venv:dt: 0.0050s, θ: -0.0076 rad, x: 2.3739
+WARNING:venv:dt: 0.0050s, θ: -0.0076 rad, x: 2.3808
+WARNING:venv:dt: 0.0050s, θ: -0.0076 rad, x: 2.3876
+WARNING:venv:dt: 0.0050s, θ: -0.0076 rad, x: 2.3945
+WARNING:venv:dt: 0.0050s, θ: -0.0076 rad, x: 2.4014
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4083
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4152
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4221
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4290
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4359
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4429
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4498
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4568
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4637
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4707
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4777
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4847
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4917
+WARNING:venv:dt: 0.0050s, θ: -0.0077 rad, x: 2.4987
+WARNING:venv:dt: 0.0050s, θ: -0.0078 rad, x: 2.5058
+WARNING:venv:dt: 0.0050s, θ: -0.0078 rad, x: 2.5128
+WARNING:venv:dt: 0.0050s, θ: -0.0078 rad, x: 2.5198
+WARNING:venv:dt: 0.0050s, θ: -0.0078 rad, x: 2.5269
+WARNING:venv:dt: 0.0050s, θ: -0.0078 rad, x: 2.5340
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0078 rad, x: 2.5410
+WARNING:venv:dt: 0.0050s, θ: -0.0078 rad, x: 2.5481
+WARNING:venv:dt: 0.0050s, θ: -0.0078 rad, x: 2.5552
+WARNING:venv:dt: 0.0050s, θ: -0.0078 rad, x: 2.5623
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.5694
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.5766
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.5837
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.5908
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.5980
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.6051
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.6123
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.6195
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.6267
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.6339
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.6411
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.6483
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.6556
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.6628
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.6701
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.6773
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.6846
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.6919
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.6992
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.7065
+WARNING:venv:dt: 0.0050s, θ: -0.0079 rad, x: 2.7138
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.7211
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.7285
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.7358
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.7432
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.7505
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.7579
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.7653
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.7727
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0080 rad, x: 2.7801
+WARNING:venv:dt: 0.0050s, θ: -0.0081 rad, x: 2.7875
+WARNING:venv:dt: 0.0050s, θ: -0.0081 rad, x: 2.7949
+WARNING:venv:dt: 0.0050s, θ: -0.0081 rad, x: 2.8023
+WARNING:venv:dt: 0.0050s, θ: -0.0081 rad, x: 2.8098
+WARNING:venv:dt: 0.0050s, θ: -0.0081 rad, x: 2.8172
+WARNING:venv:dt: 0.0050s, θ: -0.0081 rad, x: 2.8247
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0081 rad, x: 2.8322
+WARNING:venv:dt: 0.0050s, θ: -0.0082 rad, x: 2.8397
+WARNING:venv:dt: 0.0050s, θ: -0.0082 rad, x: 2.8472
+WARNING:venv:dt: 0.0050s, θ: -0.0082 rad, x: 2.8547
+WARNING:venv:dt: 0.0050s, θ: -0.0082 rad, x: 2.8622
+WARNING:venv:dt: 0.0050s, θ: -0.0082 rad, x: 2.8697
+WARNING:venv:dt: 0.0050s, θ: -0.0082 rad, x: 2.8772
+WARNING:venv:dt: 0.0050s, θ: -0.0082 rad, x: 2.8848
+WARNING:venv:dt: 0.0050s, θ: -0.0082 rad, x: 2.8923
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0082 rad, x: 2.8999
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 2.9075
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 2.9150
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 2.9226
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 2.9302
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 2.9379
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 2.9455
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 2.9531
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 2.9608
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 2.9684
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 2.9761
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 2.9838
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 2.9914
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 2.9991
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 3.0068
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 3.0146
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 3.0223
+WARNING:venv:dt: 0.0050s, θ: -0.0083 rad, x: 3.0300
+WARNING:venv:dt: 0.0050s, θ: -0.0084 rad, x: 3.0378
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0084 rad, x: 3.0455
+WARNING:venv:dt: 0.0050s, θ: -0.0084 rad, x: 3.0533
+WARNING:venv:dt: 0.0050s, θ: -0.0084 rad, x: 3.0611
+WARNING:venv:dt: 0.0050s, θ: -0.0084 rad, x: 3.0688
+WARNING:venv:dt: 0.0050s, θ: -0.0084 rad, x: 3.0766
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0084 rad, x: 3.0844
+WARNING:venv:dt: 0.0050s, θ: -0.0084 rad, x: 3.0922
+WARNING:venv:dt: 0.0050s, θ: -0.0084 rad, x: 3.1001
+WARNING:venv:dt: 0.0050s, θ: -0.0085 rad, x: 3.1079
+WARNING:venv:dt: 0.0050s, θ: -0.0085 rad, x: 3.1157
+WARNING:venv:dt: 0.0050s, θ: -0.0085 rad, x: 3.1236
+WARNING:venv:dt: 0.0050s, θ: -0.0085 rad, x: 3.1315
+WARNING:venv:dt: 0.0050s, θ: -0.0085 rad, x: 3.1393
+WARNING:venv:dt: 0.0050s, θ: -0.0085 rad, x: 3.1472
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0085 rad, x: 3.1551
+WARNING:venv:dt: 0.0050s, θ: -0.0085 rad, x: 3.1630
+WARNING:venv:dt: 0.0050s, θ: -0.0085 rad, x: 3.1709
+WARNING:venv:dt: 0.0050s, θ: -0.0085 rad, x: 3.1788
+WARNING:venv:dt: 0.0050s, θ: -0.0085 rad, x: 3.1868
+WARNING:venv:dt: 0.0050s, θ: -0.0085 rad, x: 3.1947
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0086 rad, x: 3.2026
+WARNING:venv:dt: 0.0050s, θ: -0.0086 rad, x: 3.2106
+WARNING:venv:dt: 0.0050s, θ: -0.0086 rad, x: 3.2186
+WARNING:venv:dt: 0.0050s, θ: -0.0086 rad, x: 3.2266
+WARNING:venv:dt: 0.0050s, θ: -0.0086 rad, x: 3.2345
+WARNING:venv:dt: 0.0050s, θ: -0.0086 rad, x: 3.2426
+WARNING:venv:dt: 0.0050s, θ: -0.0086 rad, x: 3.2506
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0086 rad, x: 3.2586
+WARNING:venv:dt: 0.0050s, θ: -0.0086 rad, x: 3.2666
+WARNING:venv:dt: 0.0050s, θ: -0.0086 rad, x: 3.2747
+WARNING:venv:dt: 0.0050s, θ: -0.0086 rad, x: 3.2827
+WARNING:venv:dt: 0.0050s, θ: -0.0087 rad, x: 3.2908
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0087 rad, x: 3.2988
+WARNING:venv:dt: 0.0050s, θ: -0.0087 rad, x: 3.3069
+WARNING:venv:dt: 0.0050s, θ: -0.0087 rad, x: 3.3150
+WARNING:venv:dt: 0.0050s, θ: -0.0087 rad, x: 3.3231
+WARNING:venv:dt: 0.0050s, θ: -0.0087 rad, x: 3.3312
+WARNING:venv:dt: 0.0050s, θ: -0.0087 rad, x: 3.3393
+WARNING:venv:dt: 0.0050s, θ: -0.0088 rad, x: 3.3475
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0088 rad, x: 3.3556
+WARNING:venv:dt: 0.0050s, θ: -0.0088 rad, x: 3.3637
+WARNING:venv:dt: 0.0050s, θ: -0.0088 rad, x: 3.3719
+WARNING:venv:dt: 0.0050s, θ: -0.0088 rad, x: 3.3801
+WARNING:venv:dt: 0.0050s, θ: -0.0088 rad, x: 3.3882
+WARNING:venv:dt: 0.0050s, θ: -0.0089 rad, x: 3.3964
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0089 rad, x: 3.4046
+WARNING:venv:dt: 0.0050s, θ: -0.0089 rad, x: 3.4128
+WARNING:venv:dt: 0.0050s, θ: -0.0089 rad, x: 3.4211
+WARNING:venv:dt: 0.0050s, θ: -0.0089 rad, x: 3.4293
+WARNING:venv:dt: 0.0050s, θ: -0.0089 rad, x: 3.4375
+WARNING:venv:dt: 0.0050s, θ: -0.0089 rad, x: 3.4458
+WARNING:venv:dt: 0.0050s, θ: -0.0089 rad, x: 3.4540
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0089 rad, x: 3.4623
+WARNING:venv:dt: 0.0050s, θ: -0.0089 rad, x: 3.4706
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.4789
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.4871
+WARNING:venv:dt: 0.0050s, θ: -0.0089 rad, x: 3.4955
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.5038
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.5121
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.5204
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.5288
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.5371
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.5455
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.5539
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.5623
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.5707
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.5791
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.5875
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.5959
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.6043
+WARNING:venv:dt: 0.0050s, θ: -0.0090 rad, x: 3.6128
+WARNING:venv:dt: 0.0050s, θ: -0.0091 rad, x: 3.6212
+WARNING:venv:dt: 0.0050s, θ: -0.0091 rad, x: 3.6297
+WARNING:venv:dt: 0.0050s, θ: -0.0091 rad, x: 3.6382
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0091 rad, x: 3.6467
+WARNING:venv:dt: 0.0050s, θ: -0.0091 rad, x: 3.6552
+WARNING:venv:dt: 0.0050s, θ: -0.0091 rad, x: 3.6637
+WARNING:venv:dt: 0.0050s, θ: -0.0091 rad, x: 3.6722
+WARNING:venv:dt: 0.0050s, θ: -0.0091 rad, x: 3.6807
+WARNING:venv:dt: 0.0050s, θ: -0.0091 rad, x: 3.6892
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0091 rad, x: 3.6978
+WARNING:venv:dt: 0.0050s, θ: -0.0092 rad, x: 3.7063
+WARNING:venv:dt: 0.0050s, θ: -0.0092 rad, x: 3.7149
+WARNING:venv:dt: 0.0050s, θ: -0.0092 rad, x: 3.7234
+WARNING:venv:dt: 0.0050s, θ: -0.0092 rad, x: 3.7320
+WARNING:venv:dt: 0.0050s, θ: -0.0092 rad, x: 3.7406
+WARNING:venv:dt: 0.0050s, θ: -0.0093 rad, x: 3.7492
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0093 rad, x: 3.7578
+WARNING:venv:dt: 0.0050s, θ: -0.0093 rad, x: 3.7665
+WARNING:venv:dt: 0.0050s, θ: -0.0093 rad, x: 3.7751
+WARNING:venv:dt: 0.0050s, θ: -0.0093 rad, x: 3.7837
+WARNING:venv:dt: 0.0050s, θ: -0.0093 rad, x: 3.7924
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0094 rad, x: 3.8010
+WARNING:venv:dt: 0.0050s, θ: -0.0094 rad, x: 3.8097
+WARNING:venv:dt: 0.0050s, θ: -0.0094 rad, x: 3.8184
+WARNING:venv:dt: 0.0050s, θ: -0.0095 rad, x: 3.8271
+WARNING:venv:dt: 0.0050s, θ: -0.0096 rad, x: 3.8358
+WARNING:venv:dt: 0.0050s, θ: -0.0096 rad, x: 3.8445
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0097 rad, x: 3.8532
+WARNING:venv:dt: 0.0050s, θ: -0.0097 rad, x: 3.8620
+WARNING:venv:dt: 0.0050s, θ: -0.0098 rad, x: 3.8707
+WARNING:venv:dt: 0.0050s, θ: -0.0098 rad, x: 3.8794
+WARNING:venv:dt: 0.0050s, θ: -0.0099 rad, x: 3.8882
+WARNING:venv:dt: 0.0050s, θ: -0.0100 rad, x: 3.8970
+WARNING:venv:dt: 0.0050s, θ: -0.0102 rad, x: 3.9058
+WARNING:venv:dt: 0.0050s, θ: -0.0103 rad, x: 3.9145
+WARNING:venv:dt: 0.0050s, θ: -0.0105 rad, x: 3.9233
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0106 rad, x: 3.9321
+WARNING:venv:dt: 0.0050s, θ: -0.0108 rad, x: 3.9409
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 3.9498
+WARNING:venv:dt: 0.0050s, θ: -0.0110 rad, x: 3.9586
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 3.9674
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 3.9763
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 3.9852
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 3.9940
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 4.0029
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 4.0118
+WARNING:venv:dt: 0.0050s, θ: -0.0117 rad, x: 4.0207
+WARNING:venv:dt: 0.0050s, θ: -0.0117 rad, x: 4.0296
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0118 rad, x: 4.0386
+WARNING:venv:dt: 0.0050s, θ: -0.0118 rad, x: 4.0475
+WARNING:venv:dt: 0.0050s, θ: -0.0118 rad, x: 4.0565
+WARNING:venv:dt: 0.0050s, θ: -0.0117 rad, x: 4.0654
+WARNING:venv:dt: 0.0050s, θ: -0.0117 rad, x: 4.0744
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 4.0834
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 4.0924
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 4.1014
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 4.1104
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 4.1195
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 4.1285
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 4.1375
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 4.1466
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 4.1557
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 4.1648
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 4.1738
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 4.1830
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 4.1921
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 4.2012
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 4.2103
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 4.2195
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 4.2286
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 4.2378
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 4.2469
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 4.2561
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 4.2653
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 4.2745
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 4.2837
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 4.2930
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 4.3022
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 4.3114
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 4.3207
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 4.3299
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 4.3392
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.3485
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.3578
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.3671
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.3764
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.3857
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 4.3951
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 4.4044
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.4138
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.4231
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.4325
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.4419
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.4513
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.4607
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.4701
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.4796
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.4890
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.4984
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.5079
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.5174
+WARNING:venv:dt: 0.0050s, θ: -0.0110 rad, x: 4.5269
+WARNING:venv:dt: 0.0050s, θ: -0.0110 rad, x: 4.5363
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0110 rad, x: 4.5458
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.5554
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.5649
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.5744
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.5839
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.5935
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.6030
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.6126
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.6222
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.6318
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.6414
+WARNING:venv:dt: 0.0050s, θ: -0.0108 rad, x: 4.6510
+WARNING:venv:dt: 0.0050s, θ: -0.0108 rad, x: 4.6606
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0108 rad, x: 4.6702
+WARNING:venv:dt: 0.0050s, θ: -0.0108 rad, x: 4.6798
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.6895
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.6991
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.7088
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.7185
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.7282
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.7378
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.7476
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.7573
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.7670
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.7767
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.7865
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.7962
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.8060
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.8157
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.8255
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.8353
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.8451
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.8549
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.8648
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.8746
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.8844
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.8943
+WARNING:venv:dt: 0.0050s, θ: -0.0109 rad, x: 4.9041
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0110 rad, x: 4.9140
+WARNING:venv:dt: 0.0050s, θ: -0.0110 rad, x: 4.9239
+WARNING:venv:dt: 0.0050s, θ: -0.0110 rad, x: 4.9338
+WARNING:venv:dt: 0.0050s, θ: -0.0110 rad, x: 4.9437
+WARNING:venv:dt: 0.0050s, θ: -0.0110 rad, x: 4.9536
+WARNING:venv:dt: 0.0050s, θ: -0.0110 rad, x: 4.9635
+WARNING:venv:dt: 0.0050s, θ: -0.0110 rad, x: 4.9734
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0110 rad, x: 4.9834
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 4.9933
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.0033
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.0132
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.0232
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.0332
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.0432
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.0532
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.0632
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.0733
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.0833
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 5.0933
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 5.1034
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 5.1135
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.1235
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.1336
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.1437
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.1538
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.1640
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0111 rad, x: 5.1741
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 5.1842
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 5.1944
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 5.2045
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 5.2147
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 5.2249
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 5.2351
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 5.2453
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 5.2555
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 5.2657
+WARNING:venv:dt: 0.0050s, θ: -0.0112 rad, x: 5.2759
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 5.2861
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 5.2964
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 5.3066
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 5.3169
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 5.3272
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 5.3374
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 5.3477
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 5.3580
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 5.3683
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0113 rad, x: 5.3787
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.3890
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.3993
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.4097
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.4200
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.4304
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.4408
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.4512
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.4616
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.4720
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.4825
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.4929
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.5033
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.5138
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.5242
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.5347
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.5452
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.5557
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.5662
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.5767
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.5872
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.5977
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.6083
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.6188
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.6294
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.6400
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.6505
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.6611
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.6717
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.6824
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.6930
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.7036
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.7142
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.7249
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.7355
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.7462
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.7569
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.7676
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.7783
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.7890
+WARNING:venv:dt: 0.0050s, θ: -0.0114 rad, x: 5.7997
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.8104
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.8212
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 5.8319
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 5.8427
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 5.8534
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 5.8642
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.8750
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.8858
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.8966
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.9074
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.9182
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.9291
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 5.9399
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 5.9508
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 5.9616
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 5.9725
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 5.9834
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 5.9943
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 6.0052
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 6.0161
+WARNING:venv:dt: 0.0050s, θ: -0.0115 rad, x: 6.0271
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 6.0380
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 6.0489
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 6.0599
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 6.0709
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 6.0818
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 6.0928
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 6.1038
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 6.1148
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 6.1258
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 6.1369
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 6.1479
+WARNING:venv:dt: 0.0050s, θ: -0.0116 rad, x: 6.1589
+WARNING:venv:dt: 0.0050s, θ: -0.0117 rad, x: 6.1700
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0117 rad, x: 6.1810
+WARNING:venv:dt: 0.0050s, θ: -0.0117 rad, x: 6.1921
+WARNING:venv:dt: 0.0050s, θ: -0.0117 rad, x: 6.2032
+WARNING:venv:dt: 0.0050s, θ: -0.0117 rad, x: 6.2142
+WARNING:venv:dt: 0.0050s, θ: -0.0117 rad, x: 6.2253
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0117 rad, x: 6.2364
+WARNING:venv:dt: 0.0050s, θ: -0.0118 rad, x: 6.2475
+WARNING:venv:dt: 0.0050s, θ: -0.0118 rad, x: 6.2586
+WARNING:venv:dt: 0.0050s, θ: -0.0119 rad, x: 6.2698
+WARNING:venv:dt: 0.0050s, θ: -0.0119 rad, x: 6.2809
+WARNING:venv:dt: 0.0050s, θ: -0.0120 rad, x: 6.2920
+WARNING:venv:dt: 0.0050s, θ: -0.0120 rad, x: 6.3032
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0120 rad, x: 6.3144
+WARNING:venv:dt: 0.0050s, θ: -0.0120 rad, x: 6.3255
+WARNING:venv:dt: 0.0050s, θ: -0.0120 rad, x: 6.3367
+WARNING:venv:dt: 0.0050s, θ: -0.0121 rad, x: 6.3479
+WARNING:venv:dt: 0.0050s, θ: -0.0121 rad, x: 6.3591
+WARNING:venv:dt: 0.0050s, θ: -0.0122 rad, x: 6.3703
+WARNING:venv:dt: 0.0050s, θ: -0.0122 rad, x: 6.3816
+WARNING:venv:dt: 0.0050s, θ: -0.0122 rad, x: 6.3928
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.4040
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.4153
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.4266
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.4379
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.4492
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.4605
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.4718
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.4831
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.4945
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.5058
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.5172
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.5285
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0122 rad, x: 6.5399
+WARNING:venv:dt: 0.0050s, θ: -0.0122 rad, x: 6.5513
+WARNING:venv:dt: 0.0050s, θ: -0.0122 rad, x: 6.5627
+WARNING:venv:dt: 0.0050s, θ: -0.0122 rad, x: 6.5741
+WARNING:venv:dt: 0.0050s, θ: -0.0122 rad, x: 6.5855
+WARNING:venv:dt: 0.0050s, θ: -0.0122 rad, x: 6.5970
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.6084
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.6198
+WARNING:venv:dt: 0.0050s, θ: -0.0123 rad, x: 6.6313
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0124 rad, x: 6.6427
+WARNING:venv:dt: 0.0050s, θ: -0.0124 rad, x: 6.6542
+WARNING:venv:dt: 0.0050s, θ: -0.0124 rad, x: 6.6657
+WARNING:venv:dt: 0.0050s, θ: -0.0124 rad, x: 6.6771
+WARNING:venv:dt: 0.0050s, θ: -0.0124 rad, x: 6.6886
+WARNING:venv:dt: 0.0050s, θ: -0.0124 rad, x: 6.7001
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0125 rad, x: 6.7116
+WARNING:venv:dt: 0.0050s, θ: -0.0126 rad, x: 6.7231
+WARNING:venv:dt: 0.0050s, θ: -0.0126 rad, x: 6.7347
+WARNING:venv:dt: 0.0050s, θ: -0.0126 rad, x: 6.7462
+WARNING:venv:dt: 0.0050s, θ: -0.0127 rad, x: 6.7578
+WARNING:venv:dt: 0.0050s, θ: -0.0127 rad, x: 6.7693
+WARNING:venv:dt: 0.0050s, θ: -0.0127 rad, x: 6.7809
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0127 rad, x: 6.7925
+WARNING:venv:dt: 0.0050s, θ: -0.0127 rad, x: 6.8041
+WARNING:venv:dt: 0.0050s, θ: -0.0127 rad, x: 6.8157
+WARNING:venv:dt: 0.0050s, θ: -0.0127 rad, x: 6.8273
+WARNING:venv:dt: 0.0050s, θ: -0.0127 rad, x: 6.8389
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 6.8506
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 6.8622
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 6.8739
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 6.8856
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 6.8972
+WARNING:venv:dt: 0.0050s, θ: -0.0127 rad, x: 6.9089
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0127 rad, x: 6.9207
+WARNING:venv:dt: 0.0050s, θ: -0.0127 rad, x: 6.9324
+WARNING:venv:dt: 0.0050s, θ: -0.0127 rad, x: 6.9441
+WARNING:venv:dt: 0.0050s, θ: -0.0127 rad, x: 6.9558
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 6.9676
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 6.9793
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 6.9911
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 7.0028
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 7.0146
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 7.0264
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 7.0382
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 7.0500
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 7.0618
+WARNING:venv:dt: 0.0050s, θ: -0.0128 rad, x: 7.0736
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0129 rad, x: 7.0854
+WARNING:venv:dt: 0.0050s, θ: -0.0129 rad, x: 7.0973
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.1091
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.1210
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.1328
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.1447
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.1566
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.1685
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.1804
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.1924
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.2043
+WARNING:venv:dt: 0.0050s, θ: -0.0131 rad, x: 7.2162
+WARNING:venv:dt: 0.0050s, θ: -0.0131 rad, x: 7.2282
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0131 rad, x: 7.2402
+WARNING:venv:dt: 0.0050s, θ: -0.0131 rad, x: 7.2521
+WARNING:venv:dt: 0.0050s, θ: -0.0131 rad, x: 7.2641
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.2761
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.2881
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.3001
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.3122
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.3242
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.3363
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.3483
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.3604
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.3724
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.3845
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.3966
+WARNING:venv:dt: 0.0050s, θ: -0.0130 rad, x: 7.4087
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0131 rad, x: 7.4208
+WARNING:venv:dt: 0.0050s, θ: -0.0131 rad, x: 7.4329
+WARNING:venv:dt: 0.0050s, θ: -0.0131 rad, x: 7.4451
+WARNING:venv:dt: 0.0050s, θ: -0.0131 rad, x: 7.4572
+WARNING:venv:dt: 0.0050s, θ: -0.0132 rad, x: 7.4693
+WARNING:venv:dt: 0.0050s, θ: -0.0132 rad, x: 7.4815
+WARNING:venv:dt: 0.0050s, θ: -0.0132 rad, x: 7.4937
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0132 rad, x: 7.5058
+WARNING:venv:dt: 0.0050s, θ: -0.0132 rad, x: 7.5180
+WARNING:venv:dt: 0.0050s, θ: -0.0132 rad, x: 7.5302
+WARNING:venv:dt: 0.0050s, θ: -0.0132 rad, x: 7.5424
+WARNING:venv:dt: 0.0050s, θ: -0.0132 rad, x: 7.5546
+WARNING:venv:dt: 0.0050s, θ: -0.0133 rad, x: 7.5668
+WARNING:venv:dt: 0.0050s, θ: -0.0133 rad, x: 7.5791
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0133 rad, x: 7.5913
+WARNING:venv:dt: 0.0050s, θ: -0.0133 rad, x: 7.6036
+WARNING:venv:dt: 0.0050s, θ: -0.0134 rad, x: 7.6158
+WARNING:venv:dt: 0.0050s, θ: -0.0134 rad, x: 7.6281
+WARNING:venv:dt: 0.0050s, θ: -0.0134 rad, x: 7.6404
+WARNING:venv:dt: 0.0050s, θ: -0.0134 rad, x: 7.6527
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0134 rad, x: 7.6650
+WARNING:venv:dt: 0.0050s, θ: -0.0134 rad, x: 7.6773
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.6896
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.7020
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.7143
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.7267
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.7390
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.7514
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.7638
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.7762
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.7886
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.8010
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.8134
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.8259
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.8383
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.8508
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.8632
+WARNING:venv:dt: 0.0050s, θ: -0.0135 rad, x: 7.8757
+WARNING:venv:dt: 0.0050s, θ: -0.0136 rad, x: 7.8882
+WARNING:venv:dt: 0.0050s, θ: -0.0136 rad, x: 7.9007
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0136 rad, x: 7.9132
+WARNING:venv:dt: 0.0050s, θ: -0.0136 rad, x: 7.9257
+WARNING:venv:dt: 0.0050s, θ: -0.0136 rad, x: 7.9382
+WARNING:venv:dt: 0.0050s, θ: -0.0136 rad, x: 7.9507
+WARNING:venv:dt: 0.0050s, θ: -0.0137 rad, x: 7.9633
+WARNING:venv:dt: 0.0050s, θ: -0.0137 rad, x: 7.9758
+WARNING:venv:dt: 0.0050s, θ: -0.0137 rad, x: 7.9884
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0137 rad, x: 8.0009
+WARNING:venv:dt: 0.0050s, θ: -0.0137 rad, x: 8.0135
+WARNING:venv:dt: 0.0050s, θ: -0.0137 rad, x: 8.0261
+WARNING:venv:dt: 0.0050s, θ: -0.0137 rad, x: 8.0387
+WARNING:venv:dt: 0.0050s, θ: -0.0137 rad, x: 8.0513
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.0639
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.0766
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.0892
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.1019
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.1145
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.1272
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.1399
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.1526
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.1653
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.1780
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.1907
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.2035
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.2162
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.2290
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.2417
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.2545
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.2673
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.2801
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.2929
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.3057
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.3185
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.3313
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0138 rad, x: 8.3442
+WARNING:venv:dt: 0.0050s, θ: -0.0139 rad, x: 8.3570
+WARNING:venv:dt: 0.0050s, θ: -0.0139 rad, x: 8.3699
+WARNING:venv:dt: 0.0050s, θ: -0.0139 rad, x: 8.3827
+WARNING:venv:dt: 0.0050s, θ: -0.0139 rad, x: 8.3956
+WARNING:venv:dt: 0.0050s, θ: -0.0139 rad, x: 8.4085
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0140 rad, x: 8.4214
+WARNING:venv:dt: 0.0050s, θ: -0.0140 rad, x: 8.4343
+WARNING:venv:dt: 0.0050s, θ: -0.0140 rad, x: 8.4472
+WARNING:venv:dt: 0.0050s, θ: -0.0140 rad, x: 8.4601
+WARNING:venv:dt: 0.0050s, θ: -0.0140 rad, x: 8.4731
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.4860
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.4990
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.5119
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.5249
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.5379
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.5509
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.5639
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.5770
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.5900
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.6030
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.6161
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.6292
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.6422
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.6553
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.6684
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.6815
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.6946
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.7077
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.7209
+WARNING:venv:dt: 0.0050s, θ: -0.0141 rad, x: 8.7340
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0142 rad, x: 8.7471
+WARNING:venv:dt: 0.0050s, θ: -0.0142 rad, x: 8.7603
+WARNING:venv:dt: 0.0050s, θ: -0.0142 rad, x: 8.7735
+WARNING:venv:dt: 0.0050s, θ: -0.0142 rad, x: 8.7866
+WARNING:venv:dt: 0.0050s, θ: -0.0142 rad, x: 8.7998
+WARNING:venv:dt: 0.0050s, θ: -0.0143 rad, x: 8.8130
+WARNING:venv:dt: 0.0050s, θ: -0.0143 rad, x: 8.8262
+WARNING:venv:dt: 0.0050s, θ: -0.0143 rad, x: 8.8394
+WARNING:venv:dt: 0.0050s, θ: -0.0143 rad, x: 8.8527
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0143 rad, x: 8.8659
+WARNING:venv:dt: 0.0050s, θ: -0.0143 rad, x: 8.8792
+WARNING:venv:dt: 0.0050s, θ: -0.0144 rad, x: 8.8924
+WARNING:venv:dt: 0.0050s, θ: -0.0144 rad, x: 8.9057
+WARNING:venv:dt: 0.0050s, θ: -0.0144 rad, x: 8.9189
+WARNING:venv:dt: 0.0050s, θ: -0.0144 rad, x: 8.9322
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0144 rad, x: 8.9455
+WARNING:venv:dt: 0.0050s, θ: -0.0144 rad, x: 8.9588
+WARNING:venv:dt: 0.0050s, θ: -0.0145 rad, x: 8.9721
+WARNING:venv:dt: 0.0050s, θ: -0.0145 rad, x: 8.9855
+WARNING:venv:dt: 0.0100s, θ: -0.0146 rad, x: 9.0121
+WARNING:venv:dt: 0.0050s, θ: -0.0145 rad, x: 9.0255
+WARNING:venv:dt: 0.0050s, θ: -0.0145 rad, x: 9.0389
+WARNING:venv:dt: 0.0050s, θ: -0.0145 rad, x: 9.0522
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0146 rad, x: 9.0656
+WARNING:venv:dt: 0.0050s, θ: -0.0146 rad, x: 9.0790
+WARNING:venv:dt: 0.0050s, θ: -0.0146 rad, x: 9.0924
+WARNING:venv:dt: 0.0050s, θ: -0.0146 rad, x: 9.1059
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0146 rad, x: 9.1193
+WARNING:venv:dt: 0.0050s, θ: -0.0146 rad, x: 9.1327
+WARNING:venv:dt: 0.0050s, θ: -0.0146 rad, x: 9.1462
+WARNING:venv:dt: 0.0050s, θ: -0.0146 rad, x: 9.1596
+WARNING:venv:dt: 0.0050s, θ: -0.0146 rad, x: 9.1731
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0146 rad, x: 9.1866
+WARNING:venv:dt: 0.0050s, θ: -0.0146 rad, x: 9.2000
+WARNING:venv:dt: 0.0050s, θ: -0.0147 rad, x: 9.2135
+WARNING:venv:dt: 0.0050s, θ: -0.0147 rad, x: 9.2270
+WARNING:venv:dt: 0.0050s, θ: -0.0147 rad, x: 9.2405
+WARNING:venv:dt: 0.0050s, θ: -0.0148 rad, x: 9.2540
+WARNING:venv:dt: 0.0050s, θ: -0.0149 rad, x: 9.2675
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0149 rad, x: 9.2810
+WARNING:venv:dt: 0.0050s, θ: -0.0150 rad, x: 9.2946
+WARNING:venv:dt: 0.0050s, θ: -0.0151 rad, x: 9.3081
+WARNING:venv:dt: 0.0050s, θ: -0.0151 rad, x: 9.3216
+WARNING:venv:dt: 0.0050s, θ: -0.0152 rad, x: 9.3352
+WARNING:venv:dt: 0.0050s, θ: -0.0153 rad, x: 9.3487
+WARNING:venv:dt: 0.0050s, θ: -0.0153 rad, x: 9.3623
+WARNING:venv:dt: 0.0050s, θ: -0.0153 rad, x: 9.3759
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 9.3895
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 9.4031
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 9.4168
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 9.4304
+WARNING:venv:dt: 0.0050s, θ: -0.0153 rad, x: 9.4441
+WARNING:venv:dt: 0.0050s, θ: -0.0153 rad, x: 9.4578
+WARNING:venv:dt: 0.0050s, θ: -0.0152 rad, x: 9.4715
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0152 rad, x: 9.4852
+WARNING:venv:dt: 0.0050s, θ: -0.0152 rad, x: 9.4990
+WARNING:venv:dt: 0.0050s, θ: -0.0152 rad, x: 9.5127
+WARNING:venv:dt: 0.0050s, θ: -0.0152 rad, x: 9.5265
+WARNING:venv:dt: 0.0050s, θ: -0.0151 rad, x: 9.5402
+WARNING:venv:dt: 0.0050s, θ: -0.0150 rad, x: 9.5540
+WARNING:venv:dt: 0.0050s, θ: -0.0150 rad, x: 9.5678
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0149 rad, x: 9.5816
+WARNING:venv:dt: 0.0050s, θ: -0.0148 rad, x: 9.5954
+WARNING:venv:dt: 0.0050s, θ: -0.0149 rad, x: 9.6092
+WARNING:venv:dt: 0.0050s, θ: -0.0149 rad, x: 9.6230
+WARNING:venv:dt: 0.0050s, θ: -0.0149 rad, x: 9.6368
+WARNING:venv:dt: 0.0050s, θ: -0.0150 rad, x: 9.6506
+WARNING:venv:dt: 0.0050s, θ: -0.0150 rad, x: 9.6645
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0149 rad, x: 9.6783
+WARNING:venv:dt: 0.0050s, θ: -0.0149 rad, x: 9.6922
+WARNING:venv:dt: 0.0050s, θ: -0.0149 rad, x: 9.7060
+WARNING:venv:dt: 0.0050s, θ: -0.0149 rad, x: 9.7199
+WARNING:venv:dt: 0.0050s, θ: -0.0149 rad, x: 9.7337
+WARNING:venv:dt: 0.0050s, θ: -0.0150 rad, x: 9.7476
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0151 rad, x: 9.7615
+WARNING:venv:dt: 0.0050s, θ: -0.0151 rad, x: 9.7754
+WARNING:venv:dt: 0.0050s, θ: -0.0151 rad, x: 9.7893
+WARNING:venv:dt: 0.0050s, θ: -0.0151 rad, x: 9.8032
+WARNING:venv:dt: 0.0050s, θ: -0.0151 rad, x: 9.8171
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0152 rad, x: 9.8310
+WARNING:venv:dt: 0.0050s, θ: -0.0153 rad, x: 9.8450
+WARNING:venv:dt: 0.0050s, θ: -0.0153 rad, x: 9.8589
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 9.8729
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 9.8869
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 9.9008
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 9.9148
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 9.9288
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 9.9429
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 9.9569
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 9.9710
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 9.9850
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 9.9991
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0153 rad, x: 10.0132
+WARNING:venv:dt: 0.0050s, θ: -0.0153 rad, x: 10.0273
+WARNING:venv:dt: 0.0050s, θ: -0.0153 rad, x: 10.0414
+WARNING:venv:dt: 0.0050s, θ: -0.0153 rad, x: 10.0555
+WARNING:venv:dt: 0.0050s, θ: -0.0153 rad, x: 10.0696
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 10.0838
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 10.0979
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 10.1121
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 10.1262
+WARNING:venv:dt: 0.0050s, θ: -0.0154 rad, x: 10.1404
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 10.1546
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 10.1688
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 10.1831
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 10.1973
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0156 rad, x: 10.2115
+WARNING:venv:dt: 0.0050s, θ: -0.0156 rad, x: 10.2258
+WARNING:venv:dt: 0.0050s, θ: -0.0156 rad, x: 10.2400
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 10.2543
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 10.2686
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 10.2829
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 10.2972
+WARNING:venv:dt: 0.0050s, θ: -0.0155 rad, x: 10.3115
+WARNING:venv:dt: 0.0050s, θ: -0.0156 rad, x: 10.3258
+WARNING:venv:dt: 0.0050s, θ: -0.0156 rad, x: 10.3402
+WARNING:venv:dt: 0.0050s, θ: -0.0156 rad, x: 10.3545
+WARNING:venv:dt: 0.0050s, θ: -0.0156 rad, x: 10.3689
+WARNING:venv:dt: 0.0050s, θ: -0.0156 rad, x: 10.3832
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0156 rad, x: 10.3976
+WARNING:venv:dt: 0.0050s, θ: -0.0157 rad, x: 10.4119
+WARNING:venv:dt: 0.0050s, θ: -0.0157 rad, x: 10.4263
+WARNING:venv:dt: 0.0050s, θ: -0.0158 rad, x: 10.4407
+WARNING:venv:dt: 0.0050s, θ: -0.0158 rad, x: 10.4551
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.4695
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.4839
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.4984
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.5128
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.5273
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.5417
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.5562
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.5707
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.5852
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.5998
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.6143
+WARNING:venv:dt: 0.0050s, θ: -0.0158 rad, x: 10.6288
+WARNING:venv:dt: 0.0050s, θ: -0.0158 rad, x: 10.6434
+WARNING:venv:dt: 0.0050s, θ: -0.0158 rad, x: 10.6580
+WARNING:venv:dt: 0.0050s, θ: -0.0158 rad, x: 10.6725
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0158 rad, x: 10.6871
+WARNING:venv:dt: 0.0050s, θ: -0.0158 rad, x: 10.7017
+WARNING:venv:dt: 0.0050s, θ: -0.0158 rad, x: 10.7163
+WARNING:venv:dt: 0.0050s, θ: -0.0158 rad, x: 10.7309
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.7455
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.7601
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0159 rad, x: 10.7747
+WARNING:venv:dt: 0.0050s, θ: -0.0160 rad, x: 10.7893
+WARNING:venv:dt: 0.0050s, θ: -0.0160 rad, x: 10.8040
+WARNING:venv:dt: 0.0050s, θ: -0.0160 rad, x: 10.8186
+WARNING:venv:dt: 0.0050s, θ: -0.0160 rad, x: 10.8333
+WARNING:venv:dt: 0.0050s, θ: -0.0160 rad, x: 10.8480
+WARNING:venv:dt: 0.0050s, θ: -0.0160 rad, x: 10.8626
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0160 rad, x: 10.8773
+WARNING:venv:dt: 0.0050s, θ: -0.0160 rad, x: 10.8920
+WARNING:venv:dt: 0.0050s, θ: -0.0161 rad, x: 10.9067
+WARNING:venv:dt: 0.0050s, θ: -0.0161 rad, x: 10.9215
+WARNING:venv:dt: 0.0050s, θ: -0.0162 rad, x: 10.9362
+WARNING:venv:dt: 0.0050s, θ: -0.0162 rad, x: 10.9509
+WARNING:venv:dt: 0.0050s, θ: -0.0162 rad, x: 10.9657
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 10.9804
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 10.9952
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 11.0100
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 11.0248
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 11.0396
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 11.0544
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 11.0692
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 11.0841
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 11.0989
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 11.1138
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 11.1287
+WARNING:venv:dt: 0.0050s, θ: -0.0162 rad, x: 11.1436
+WARNING:venv:dt: 0.0050s, θ: -0.0162 rad, x: 11.1585
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0162 rad, x: 11.1734
+WARNING:venv:dt: 0.0050s, θ: -0.0162 rad, x: 11.1883
+WARNING:venv:dt: 0.0050s, θ: -0.0162 rad, x: 11.2032
+WARNING:venv:dt: 0.0050s, θ: -0.0162 rad, x: 11.2181
+WARNING:venv:dt: 0.0050s, θ: -0.0162 rad, x: 11.2331
+WARNING:venv:dt: 0.0050s, θ: -0.0162 rad, x: 11.2480
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 11.2630
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 11.2779
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 11.2929
+WARNING:venv:dt: 0.0050s, θ: -0.0163 rad, x: 11.3078
+WARNING:venv:dt: 0.0050s, θ: -0.0164 rad, x: 11.3228
+WARNING:venv:dt: 0.0050s, θ: -0.0165 rad, x: 11.3378
+WARNING:venv:dt: 0.0050s, θ: -0.0165 rad, x: 11.3528
+WARNING:venv:dt: 0.0050s, θ: -0.0165 rad, x: 11.3678
+WARNING:venv:dt: 0.0050s, θ: -0.0166 rad, x: 11.3828
+WARNING:venv:dt: 0.0050s, θ: -0.0166 rad, x: 11.3978
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.4129
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.4279
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.4430
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.4581
+WARNING:venv:dt: 0.0050s, θ: -0.0166 rad, x: 11.4732
+WARNING:venv:dt: 0.0050s, θ: -0.0166 rad, x: 11.4883
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0166 rad, x: 11.5034
+WARNING:venv:dt: 0.0050s, θ: -0.0166 rad, x: 11.5185
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.5337
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.5488
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.5640
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.5791
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.5943
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.6095
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.6247
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.6399
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.6551
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.6703
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.6855
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.7008
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.7160
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.7313
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.7465
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.7618
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0167 rad, x: 11.7771
+WARNING:venv:dt: 0.0050s, θ: -0.0168 rad, x: 11.7924
+WARNING:venv:dt: 0.0050s, θ: -0.0168 rad, x: 11.8077
+WARNING:venv:dt: 0.0050s, θ: -0.0168 rad, x: 11.8230
+WARNING:venv:dt: 0.0050s, θ: -0.0168 rad, x: 11.8384
+WARNING:venv:dt: 0.0050s, θ: -0.0168 rad, x: 11.8537
+WARNING:venv:dt: 0.0050s, θ: -0.0168 rad, x: 11.8690
+WARNING:venv:dt: 0.0050s, θ: -0.0168 rad, x: 11.8844
+WARNING:venv:dt: 0.0050s, θ: -0.0169 rad, x: 11.8998
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0169 rad, x: 11.9151
+WARNING:venv:dt: 0.0050s, θ: -0.0169 rad, x: 11.9305
+WARNING:venv:dt: 0.0050s, θ: -0.0169 rad, x: 11.9459
+WARNING:venv:dt: 0.0050s, θ: -0.0170 rad, x: 11.9613
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0170 rad, x: 11.9767
+WARNING:venv:dt: 0.0050s, θ: -0.0170 rad, x: 11.9921
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.0076
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.0230
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.0385
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.0539
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.0694
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.0849
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.1004
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.1159
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.1315
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.1470
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.1625
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.1781
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.1936
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.2092
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.2248
+WARNING:venv:dt: 0.0050s, θ: -0.0171 rad, x: 12.2404
+WARNING:venv:dt: 0.0050s, θ: -0.0172 rad, x: 12.2560
+WARNING:venv:dt: 0.0050s, θ: -0.0172 rad, x: 12.2716
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0172 rad, x: 12.2872
+WARNING:venv:dt: 0.0050s, θ: -0.0173 rad, x: 12.3028
+WARNING:venv:dt: 0.0050s, θ: -0.0173 rad, x: 12.3184
+WARNING:venv:dt: 0.0050s, θ: -0.0173 rad, x: 12.3341
+WARNING:venv:dt: 0.0050s, θ: -0.0173 rad, x: 12.3497
+WARNING:venv:dt: 0.0050s, θ: -0.0173 rad, x: 12.3654
+WARNING:venv:dt: 0.0050s, θ: -0.0173 rad, x: 12.3811
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0173 rad, x: 12.3967
+WARNING:venv:dt: 0.0050s, θ: -0.0173 rad, x: 12.4124
+WARNING:venv:dt: 0.0050s, θ: -0.0173 rad, x: 12.4282
+WARNING:venv:dt: 0.0050s, θ: -0.0174 rad, x: 12.4439
+WARNING:venv:dt: 0.0050s, θ: -0.0174 rad, x: 12.4596
+WARNING:venv:dt: 0.0050s, θ: -0.0174 rad, x: 12.4753
+WARNING:venv:dt: 0.0050s, θ: -0.0174 rad, x: 12.4911
+WARNING:venv:dt: 0.0050s, θ: -0.0175 rad, x: 12.5068
+WARNING:venv:dt: 0.0050s, θ: -0.0175 rad, x: 12.5226
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0175 rad, x: 12.5383
+WARNING:venv:dt: 0.0050s, θ: -0.0175 rad, x: 12.5541
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.5699
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.5857
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.6015
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.6173
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.6332
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.6490
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.6649
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.6807
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.6966
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.7125
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.7284
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.7443
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.7603
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.7762
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.7921
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.8081
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0176 rad, x: 12.8240
+WARNING:venv:dt: 0.0050s, θ: -0.0177 rad, x: 12.8400
+WARNING:venv:dt: 0.0050s, θ: -0.0177 rad, x: 12.8560
+WARNING:venv:dt: 0.0050s, θ: -0.0177 rad, x: 12.8720
+WARNING:venv:dt: 0.0050s, θ: -0.0177 rad, x: 12.8879
+WARNING:venv:dt: 0.0050s, θ: -0.0177 rad, x: 12.9039
+WARNING:venv:dt: 0.0050s, θ: -0.0178 rad, x: 12.9199
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0178 rad, x: 12.9360
+WARNING:venv:dt: 0.0050s, θ: -0.0179 rad, x: 12.9520
+WARNING:venv:dt: 0.0050s, θ: -0.0179 rad, x: 12.9680
+WARNING:venv:dt: 0.0050s, θ: -0.0179 rad, x: 12.9841
+WARNING:venv:dt: 0.0050s, θ: -0.0179 rad, x: 13.0001
+WARNING:venv:dt: 0.0050s, θ: -0.0179 rad, x: 13.0162
+WARNING:venv:dt: 0.0050s, θ: -0.0179 rad, x: 13.0323
+WARNING:venv:dt: 0.0050s, θ: -0.0179 rad, x: 13.0484
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0179 rad, x: 13.0645
+WARNING:venv:dt: 0.0050s, θ: -0.0179 rad, x: 13.0806
+WARNING:venv:dt: 0.0050s, θ: -0.0179 rad, x: 13.0967
+WARNING:venv:dt: 0.0050s, θ: -0.0179 rad, x: 13.1129
+WARNING:venv:dt: 0.0050s, θ: -0.0179 rad, x: 13.1290
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0179 rad, x: 13.1452
+WARNING:venv:dt: 0.0050s, θ: -0.0180 rad, x: 13.1613
+WARNING:venv:dt: 0.0050s, θ: -0.0180 rad, x: 13.1774
+WARNING:venv:dt: 0.0050s, θ: -0.0180 rad, x: 13.1936
+WARNING:venv:dt: 0.0050s, θ: -0.0180 rad, x: 13.2097
+WARNING:venv:dt: 0.0050s, θ: -0.0180 rad, x: 13.2259
+WARNING:venv:dt: 0.0050s, θ: -0.0180 rad, x: 13.2420
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0180 rad, x: 13.2582
+WARNING:venv:dt: 0.0050s, θ: -0.0180 rad, x: 13.2744
+WARNING:venv:dt: 0.0050s, θ: -0.0180 rad, x: 13.2906
+WARNING:venv:dt: 0.0050s, θ: -0.0180 rad, x: 13.3068
+WARNING:venv:dt: 0.0050s, θ: -0.0180 rad, x: 13.3230
+WARNING:venv:dt: 0.0050s, θ: -0.0181 rad, x: 13.3393
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0181 rad, x: 13.3555
+WARNING:venv:dt: 0.0050s, θ: -0.0181 rad, x: 13.3717
+WARNING:venv:dt: 0.0050s, θ: -0.0181 rad, x: 13.3880
+WARNING:venv:dt: 0.0050s, θ: -0.0181 rad, x: 13.4043
+WARNING:venv:dt: 0.0050s, θ: -0.0181 rad, x: 13.4205
+WARNING:venv:dt: 0.0050s, θ: -0.0181 rad, x: 13.4368
+WARNING:venv:dt: 0.0050s, θ: -0.0181 rad, x: 13.4531
+WARNING:venv:dt: 0.0050s, θ: -0.0181 rad, x: 13.4694
+WARNING:venv:dt: 0.0050s, θ: -0.0181 rad, x: 13.4857
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0181 rad, x: 13.5020
+WARNING:venv:dt: 0.0050s, θ: -0.0182 rad, x: 13.5183
+WARNING:venv:dt: 0.0050s, θ: -0.0182 rad, x: 13.5347
+WARNING:venv:dt: 0.0050s, θ: -0.0182 rad, x: 13.5510
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0182 rad, x: 13.5674
+WARNING:venv:dt: 0.0050s, θ: -0.0182 rad, x: 13.5837
+WARNING:venv:dt: 0.0050s, θ: -0.0182 rad, x: 13.6001
+WARNING:venv:dt: 0.0050s, θ: -0.0182 rad, x: 13.6165
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.6329
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.6493
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.6657
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.6822
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.6986
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.7151
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.7315
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.7480
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.7645
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.7810
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.7975
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.8140
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.8305
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.8471
+WARNING:venv:dt: 0.0050s, θ: -0.0183 rad, x: 13.8636
+WARNING:venv:dt: 0.0050s, θ: -0.0184 rad, x: 13.8802
+WARNING:venv:dt: 0.0050s, θ: -0.0184 rad, x: 13.8967
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0184 rad, x: 13.9133
+WARNING:venv:dt: 0.0050s, θ: -0.0184 rad, x: 13.9299
+WARNING:venv:dt: 0.0050s, θ: -0.0184 rad, x: 13.9465
+WARNING:venv:dt: 0.0050s, θ: -0.0184 rad, x: 13.9631
+WARNING:venv:dt: 0.0050s, θ: -0.0185 rad, x: 13.9797
+WARNING:venv:dt: 0.0050s, θ: -0.0185 rad, x: 13.9963
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0185 rad, x: 14.0129
+WARNING:venv:dt: 0.0050s, θ: -0.0185 rad, x: 14.0296
+WARNING:venv:dt: 0.0050s, θ: -0.0185 rad, x: 14.0462
+WARNING:venv:dt: 0.0050s, θ: -0.0185 rad, x: 14.0629
+WARNING:venv:dt: 0.0050s, θ: -0.0185 rad, x: 14.0795
+WARNING:venv:dt: 0.0050s, θ: -0.0185 rad, x: 14.0962
+WARNING:venv:dt: 0.0050s, θ: -0.0185 rad, x: 14.1129
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0186 rad, x: 14.1296
+WARNING:venv:dt: 0.0050s, θ: -0.0186 rad, x: 14.1463
+WARNING:venv:dt: 0.0050s, θ: -0.0186 rad, x: 14.1630
+WARNING:venv:dt: 0.0050s, θ: -0.0186 rad, x: 14.1797
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.1964
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.2132
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.2299
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.2467
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.2635
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.2803
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.2970
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.3139
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.3307
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.3475
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.3643
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.3812
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.3980
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.4149
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.4318
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.4487
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.4656
+WARNING:venv:dt: 0.0050s, θ: -0.0187 rad, x: 14.4825
+WARNING:venv:dt: 0.0050s, θ: -0.0188 rad, x: 14.4994
+WARNING:venv:dt: 0.0050s, θ: -0.0188 rad, x: 14.5163
+WARNING:venv:dt: 0.0050s, θ: -0.0188 rad, x: 14.5332
+WARNING:venv:dt: 0.0050s, θ: -0.0188 rad, x: 14.5502
+WARNING:venv:dt: 0.0050s, θ: -0.0188 rad, x: 14.5671
+WARNING:venv:dt: 0.0050s, θ: -0.0189 rad, x: 14.5841
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0189 rad, x: 14.6011
+WARNING:venv:dt: 0.0050s, θ: -0.0189 rad, x: 14.6180
+WARNING:venv:dt: 0.0050s, θ: -0.0189 rad, x: 14.6350
+WARNING:venv:dt: 0.0050s, θ: -0.0190 rad, x: 14.6520
+WARNING:venv:dt: 0.0050s, θ: -0.0190 rad, x: 14.6690
+WARNING:venv:dt: 0.0050s, θ: -0.0190 rad, x: 14.6860
+WARNING:venv:dt: 0.0050s, θ: -0.0190 rad, x: 14.7031
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0190 rad, x: 14.7201
+WARNING:venv:dt: 0.0050s, θ: -0.0190 rad, x: 14.7372
+WARNING:venv:dt: 0.0050s, θ: -0.0190 rad, x: 14.7542
+WARNING:venv:dt: 0.0050s, θ: -0.0190 rad, x: 14.7713
+WARNING:venv:dt: 0.0050s, θ: -0.0190 rad, x: 14.7884
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0190 rad, x: 14.8055
+WARNING:venv:dt: 0.0050s, θ: -0.0190 rad, x: 14.8226
+WARNING:venv:dt: 0.0050s, θ: -0.0191 rad, x: 14.8397
+WARNING:venv:dt: 0.0050s, θ: -0.0191 rad, x: 14.8568
+WARNING:venv:dt: 0.0050s, θ: -0.0191 rad, x: 14.8739
+WARNING:venv:dt: 0.0050s, θ: -0.0191 rad, x: 14.8911
+WARNING:venv:dt: 0.0050s, θ: -0.0191 rad, x: 14.9082
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0191 rad, x: 14.9254
+WARNING:venv:dt: 0.0050s, θ: -0.0191 rad, x: 14.9426
+WARNING:venv:dt: 0.0050s, θ: -0.0191 rad, x: 14.9597
+WARNING:venv:dt: 0.0050s, θ: -0.0191 rad, x: 14.9769
+WARNING:venv:dt: 0.0050s, θ: -0.0192 rad, x: 14.9941
+WARNING:venv:dt: 0.0050s, θ: -0.0192 rad, x: 15.0113
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0192 rad, x: 15.0286
+WARNING:venv:dt: 0.0050s, θ: -0.0192 rad, x: 15.0458
+WARNING:venv:dt: 0.0050s, θ: -0.0192 rad, x: 15.0630
+WARNING:venv:dt: 0.0050s, θ: -0.0192 rad, x: 15.0803
+WARNING:venv:dt: 0.0050s, θ: -0.0192 rad, x: 15.0975
+WARNING:venv:dt: 0.0050s, θ: -0.0192 rad, x: 15.1148
+WARNING:venv:dt: 0.0050s, θ: -0.0192 rad, x: 15.1321
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0192 rad, x: 15.1494
+WARNING:venv:dt: 0.0050s, θ: -0.0192 rad, x: 15.1667
+WARNING:venv:dt: 0.0050s, θ: -0.0193 rad, x: 15.1840
+WARNING:venv:dt: 0.0050s, θ: -0.0193 rad, x: 15.2013
+WARNING:venv:dt: 0.0050s, θ: -0.0193 rad, x: 15.2186
+WARNING:venv:dt: 0.0050s, θ: -0.0194 rad, x: 15.2359
+WARNING:venv:dt: 0.0050s, θ: -0.0194 rad, x: 15.2533
+WARNING:venv:dt: 0.0050s, θ: -0.0194 rad, x: 15.2706
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0194 rad, x: 15.2880
+WARNING:venv:dt: 0.0050s, θ: -0.0194 rad, x: 15.3054
+WARNING:venv:dt: 0.0050s, θ: -0.0194 rad, x: 15.3227
+WARNING:venv:dt: 0.0050s, θ: -0.0195 rad, x: 15.3401
+WARNING:venv:dt: 0.0050s, θ: -0.0195 rad, x: 15.3575
+WARNING:venv:dt: 0.0050s, θ: -0.0195 rad, x: 15.3749
+WARNING:venv:dt: 0.0050s, θ: -0.0195 rad, x: 15.3924
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0195 rad, x: 15.4098
+WARNING:venv:dt: 0.0050s, θ: -0.0195 rad, x: 15.4272
+WARNING:venv:dt: 0.0050s, θ: -0.0195 rad, x: 15.4447
+WARNING:venv:dt: 0.0050s, θ: -0.0195 rad, x: 15.4622
+WARNING:venv:dt: 0.0050s, θ: -0.0195 rad, x: 15.4796
+WARNING:venv:dt: 0.0050s, θ: -0.0195 rad, x: 15.4971
+WARNING:venv:dt: 0.0050s, θ: -0.0195 rad, x: 15.5146
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0195 rad, x: 15.5321
+WARNING:venv:dt: 0.0050s, θ: -0.0196 rad, x: 15.5496
+WARNING:venv:dt: 0.0050s, θ: -0.0196 rad, x: 15.5672
+WARNING:venv:dt: 0.0050s, θ: -0.0196 rad, x: 15.5847
+WARNING:venv:dt: 0.0050s, θ: -0.0196 rad, x: 15.6022
+WARNING:venv:dt: 0.0050s, θ: -0.0196 rad, x: 15.6198
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0196 rad, x: 15.6374
+WARNING:venv:dt: 0.0050s, θ: -0.0196 rad, x: 15.6549
+WARNING:venv:dt: 0.0050s, θ: -0.0196 rad, x: 15.6725
+WARNING:venv:dt: 0.0050s, θ: -0.0196 rad, x: 15.6901
+WARNING:venv:dt: 0.0050s, θ: -0.0196 rad, x: 15.7077
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0196 rad, x: 15.7253
+WARNING:venv:dt: 0.0050s, θ: -0.0196 rad, x: 15.7429
+WARNING:venv:dt: 0.0050s, θ: -0.0197 rad, x: 15.7606
+WARNING:venv:dt: 0.0050s, θ: -0.0197 rad, x: 15.7782
+WARNING:venv:dt: 0.0050s, θ: -0.0197 rad, x: 15.7959
+WARNING:venv:dt: 0.0050s, θ: -0.0197 rad, x: 15.8135
+WARNING:venv:dt: 0.0050s, θ: -0.0197 rad, x: 15.8312
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0197 rad, x: 15.8489
+WARNING:venv:dt: 0.0050s, θ: -0.0197 rad, x: 15.8666
+WARNING:venv:dt: 0.0050s, θ: -0.0197 rad, x: 15.8843
+WARNING:venv:dt: 0.0050s, θ: -0.0197 rad, x: 15.9020
+WARNING:venv:dt: 0.0050s, θ: -0.0197 rad, x: 15.9197
+WARNING:venv:dt: 0.0050s, θ: -0.0198 rad, x: 15.9374
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0198 rad, x: 15.9552
+WARNING:venv:dt: 0.0050s, θ: -0.0198 rad, x: 15.9729
+WARNING:venv:dt: 0.0050s, θ: -0.0198 rad, x: 15.9907
+WARNING:venv:dt: 0.0050s, θ: -0.0198 rad, x: 16.0084
+WARNING:venv:dt: 0.0050s, θ: -0.0198 rad, x: 16.0262
+WARNING:venv:dt: 0.0050s, θ: -0.0198 rad, x: 16.0440
+WARNING:venv:dt: 0.0050s, θ: -0.0198 rad, x: 16.0618
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0198 rad, x: 16.0796
+WARNING:venv:dt: 0.0050s, θ: -0.0198 rad, x: 16.0975
+WARNING:venv:dt: 0.0050s, θ: -0.0198 rad, x: 16.1153
+WARNING:venv:dt: 0.0050s, θ: -0.0198 rad, x: 16.1331
+WARNING:venv:dt: 0.0050s, θ: -0.0198 rad, x: 16.1510
+WARNING:venv:dt: 0.0050s, θ: -0.0199 rad, x: 16.1689
+WARNING:venv:dt: 0.0050s, θ: -0.0199 rad, x: 16.1867
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0199 rad, x: 16.2046
+WARNING:venv:dt: 0.0050s, θ: -0.0199 rad, x: 16.2225
+WARNING:venv:dt: 0.0050s, θ: -0.0199 rad, x: 16.2404
+WARNING:venv:dt: 0.0050s, θ: -0.0199 rad, x: 16.2583
+WARNING:venv:dt: 0.0050s, θ: -0.0199 rad, x: 16.2762
+WARNING:venv:dt: 0.0050s, θ: -0.0199 rad, x: 16.2942
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0200 rad, x: 16.3121
+WARNING:venv:dt: 0.0050s, θ: -0.0200 rad, x: 16.3300
+WARNING:venv:dt: 0.0050s, θ: -0.0200 rad, x: 16.3480
+WARNING:venv:dt: 0.0050s, θ: -0.0200 rad, x: 16.3660
+WARNING:venv:dt: 0.0050s, θ: -0.0200 rad, x: 16.3839
+WARNING:venv:dt: 0.0050s, θ: -0.0200 rad, x: 16.4019
+WARNING:venv:dt: 0.0050s, θ: -0.0200 rad, x: 16.4199
+WARNING:venv:dt: 0.0050s, θ: -0.0200 rad, x: 16.4379
+WARNING:venv:dt: 0.0050s, θ: -0.0201 rad, x: 16.4559
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0201 rad, x: 16.4740
+WARNING:venv:dt: 0.0050s, θ: -0.0201 rad, x: 16.4920
+WARNING:venv:dt: 0.0050s, θ: -0.0201 rad, x: 16.5101
+WARNING:venv:dt: 0.0050s, θ: -0.0201 rad, x: 16.5281
+WARNING:venv:dt: 0.0050s, θ: -0.0201 rad, x: 16.5462
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0201 rad, x: 16.5643
+WARNING:venv:dt: 0.0050s, θ: -0.0201 rad, x: 16.5824
+WARNING:venv:dt: 0.0050s, θ: -0.0201 rad, x: 16.6005
+WARNING:venv:dt: 0.0050s, θ: -0.0201 rad, x: 16.6186
+WARNING:venv:dt: 0.0050s, θ: -0.0201 rad, x: 16.6367
+WARNING:venv:dt: 0.0050s, θ: -0.0202 rad, x: 16.6548
+WARNING:venv:dt: 0.0050s, θ: -0.0202 rad, x: 16.6729
+WARNING:venv:dt: 0.0050s, θ: -0.0202 rad, x: 16.6911
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0202 rad, x: 16.7092
+WARNING:venv:dt: 0.0050s, θ: -0.0202 rad, x: 16.7274
+WARNING:venv:dt: 0.0050s, θ: -0.0202 rad, x: 16.7456
+WARNING:venv:dt: 0.0050s, θ: -0.0202 rad, x: 16.7638
+WARNING:venv:dt: 0.0050s, θ: -0.0202 rad, x: 16.7820
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0202 rad, x: 16.8002
+WARNING:venv:dt: 0.0050s, θ: -0.0202 rad, x: 16.8184
+WARNING:venv:dt: 0.0050s, θ: -0.0202 rad, x: 16.8366
+WARNING:venv:dt: 0.0050s, θ: -0.0203 rad, x: 16.8549
+WARNING:venv:dt: 0.0050s, θ: -0.0203 rad, x: 16.8731
+WARNING:venv:dt: 0.0050s, θ: -0.0203 rad, x: 16.8914
+WARNING:venv:dt: 0.0050s, θ: -0.0203 rad, x: 16.9097
+WARNING:venv:dt: 0.0050s, θ: -0.0203 rad, x: 16.9279
+WARNING:venv:dt: 0.0050s, θ: -0.0203 rad, x: 16.9462
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0203 rad, x: 16.9645
+WARNING:venv:dt: 0.0050s, θ: -0.0204 rad, x: 16.9828
+WARNING:venv:dt: 0.0050s, θ: -0.0204 rad, x: 17.0011
+WARNING:venv:dt: 0.0050s, θ: -0.0204 rad, x: 17.0195
+WARNING:venv:dt: 0.0050s, θ: -0.0204 rad, x: 17.0378
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0204 rad, x: 17.0561
+WARNING:venv:dt: 0.0050s, θ: -0.0205 rad, x: 17.0745
+WARNING:venv:dt: 0.0050s, θ: -0.0205 rad, x: 17.0928
+WARNING:venv:dt: 0.0050s, θ: -0.0205 rad, x: 17.1112
+WARNING:venv:dt: 0.0050s, θ: -0.0205 rad, x: 17.1296
+WARNING:venv:dt: 0.0050s, θ: -0.0205 rad, x: 17.1480
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0205 rad, x: 17.1664
+WARNING:venv:dt: 0.0050s, θ: -0.0205 rad, x: 17.1848
+WARNING:venv:dt: 0.0050s, θ: -0.0205 rad, x: 17.2032
+WARNING:venv:dt: 0.0050s, θ: -0.0205 rad, x: 17.2217
+WARNING:venv:dt: 0.0050s, θ: -0.0205 rad, x: 17.2401
+WARNING:venv:dt: 0.0050s, θ: -0.0206 rad, x: 17.2586
+WARNING:venv:dt: 0.0050s, θ: -0.0206 rad, x: 17.2771
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0206 rad, x: 17.2955
+WARNING:venv:dt: 0.0050s, θ: -0.0206 rad, x: 17.3140
+WARNING:venv:dt: 0.0050s, θ: -0.0206 rad, x: 17.3325
+WARNING:venv:dt: 0.0050s, θ: -0.0206 rad, x: 17.3510
+WARNING:venv:dt: 0.0050s, θ: -0.0206 rad, x: 17.3695
+WARNING:venv:dt: 0.0050s, θ: -0.0206 rad, x: 17.3881
+WARNING:venv:dt: 0.0050s, θ: -0.0207 rad, x: 17.4066
+WARNING:venv:dt: 0.0050s, θ: -0.0207 rad, x: 17.4251
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0207 rad, x: 17.4437
+WARNING:venv:dt: 0.0050s, θ: -0.0207 rad, x: 17.4623
+WARNING:venv:dt: 0.0050s, θ: -0.0207 rad, x: 17.4808
+WARNING:venv:dt: 0.0050s, θ: -0.0207 rad, x: 17.4994
+WARNING:venv:dt: 0.0050s, θ: -0.0207 rad, x: 17.5180
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0207 rad, x: 17.5366
+WARNING:venv:dt: 0.0050s, θ: -0.0207 rad, x: 17.5552
+WARNING:venv:dt: 0.0050s, θ: -0.0207 rad, x: 17.5739
+WARNING:venv:dt: 0.0050s, θ: -0.0207 rad, x: 17.5925
+WARNING:venv:dt: 0.0050s, θ: -0.0208 rad, x: 17.6111
+WARNING:venv:dt: 0.0050s, θ: -0.0208 rad, x: 17.6298
+WARNING:venv:dt: 0.0050s, θ: -0.0208 rad, x: 17.6485
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0208 rad, x: 17.6671
+WARNING:venv:dt: 0.0050s, θ: -0.0208 rad, x: 17.6858
+WARNING:venv:dt: 0.0050s, θ: -0.0208 rad, x: 17.7045
+WARNING:venv:dt: 0.0050s, θ: -0.0208 rad, x: 17.7232
+WARNING:venv:dt: 0.0050s, θ: -0.0209 rad, x: 17.7419
+WARNING:venv:dt: 0.0050s, θ: -0.0209 rad, x: 17.7606
+WARNING:venv:dt: 0.0050s, θ: -0.0209 rad, x: 17.7794
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0209 rad, x: 17.7981
+WARNING:venv:dt: 0.0050s, θ: -0.0209 rad, x: 17.8169
+WARNING:venv:dt: 0.0050s, θ: -0.0209 rad, x: 17.8356
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 17.8544
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 17.8732
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 17.8920
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 17.9108
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 17.9296
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 17.9484
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 17.9672
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 17.9861
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 18.0049
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 18.0238
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 18.0427
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 18.0615
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 18.0804
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 18.0993
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 18.1182
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 18.1372
+WARNING:venv:dt: 0.0050s, θ: -0.0210 rad, x: 18.1561
+WARNING:venv:dt: 0.0050s, θ: -0.0211 rad, x: 18.1750
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0211 rad, x: 18.1940
+WARNING:venv:dt: 0.0050s, θ: -0.0211 rad, x: 18.2129
+WARNING:venv:dt: 0.0050s, θ: -0.0211 rad, x: 18.2319
+WARNING:venv:dt: 0.0050s, θ: -0.0211 rad, x: 18.2509
+WARNING:venv:dt: 0.0050s, θ: -0.0211 rad, x: 18.2699
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0212 rad, x: 18.2889
+WARNING:venv:dt: 0.0050s, θ: -0.0212 rad, x: 18.3079
+WARNING:venv:dt: 0.0050s, θ: -0.0212 rad, x: 18.3269
+WARNING:venv:dt: 0.0050s, θ: -0.0212 rad, x: 18.3459
+WARNING:venv:dt: 0.0050s, θ: -0.0212 rad, x: 18.3649
+WARNING:venv:dt: 0.0050s, θ: -0.0212 rad, x: 18.3840
+WARNING:venv:dt: 0.0050s, θ: -0.0212 rad, x: 18.4030
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0212 rad, x: 18.4221
+WARNING:venv:dt: 0.0050s, θ: -0.0212 rad, x: 18.4412
+WARNING:venv:dt: 0.0050s, θ: -0.0213 rad, x: 18.4603
+WARNING:venv:dt: 0.0050s, θ: -0.0213 rad, x: 18.4794
+WARNING:venv:dt: 0.0050s, θ: -0.0213 rad, x: 18.4985
+WARNING:venv:dt: 0.0050s, θ: -0.0213 rad, x: 18.5176
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0213 rad, x: 18.5367
+WARNING:venv:dt: 0.0050s, θ: -0.0213 rad, x: 18.5559
+WARNING:venv:dt: 0.0050s, θ: -0.0213 rad, x: 18.5750
+WARNING:venv:dt: 0.0050s, θ: -0.0213 rad, x: 18.5942
+WARNING:venv:dt: 0.0050s, θ: -0.0213 rad, x: 18.6133
+WARNING:venv:dt: 0.0050s, θ: -0.0214 rad, x: 18.6325
+WARNING:venv:dt: 0.0050s, θ: -0.0214 rad, x: 18.6517
+WARNING:venv:dt: 0.0050s, θ: -0.0214 rad, x: 18.6709
+WARNING:venv:dt: 0.0050s, θ: -0.0214 rad, x: 18.6901
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0214 rad, x: 18.7093
+WARNING:venv:dt: 0.0050s, θ: -0.0214 rad, x: 18.7285
+WARNING:venv:dt: 0.0050s, θ: -0.0214 rad, x: 18.7478
+WARNING:venv:dt: 0.0050s, θ: -0.0214 rad, x: 18.7670
+WARNING:venv:dt: 0.0050s, θ: -0.0214 rad, x: 18.7863
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0214 rad, x: 18.8056
+WARNING:venv:dt: 0.0050s, θ: -0.0214 rad, x: 18.8248
+WARNING:venv:dt: 0.0050s, θ: -0.0215 rad, x: 18.8441
+WARNING:venv:dt: 0.0050s, θ: -0.0215 rad, x: 18.8634
+WARNING:venv:dt: 0.0050s, θ: -0.0215 rad, x: 18.8827
+WARNING:venv:dt: 0.0050s, θ: -0.0215 rad, x: 18.9020
+WARNING:venv:dt: 0.0050s, θ: -0.0215 rad, x: 18.9213
+WARNING:venv:dt: 0.0050s, θ: -0.0215 rad, x: 18.9407
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 18.9600
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 18.9794
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 18.9987
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 19.0181
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 19.0375
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 19.0569
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 19.0763
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 19.0957
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 19.1151
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 19.1346
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 19.1540
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 19.1735
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 19.1929
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 19.2124
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 19.2319
+WARNING:venv:dt: 0.0050s, θ: -0.0216 rad, x: 19.2514
+WARNING:venv:dt: 0.0050s, θ: -0.0217 rad, x: 19.2709
+WARNING:venv:dt: 0.0050s, θ: -0.0217 rad, x: 19.2904
+WARNING:venv:dt: 0.0050s, θ: -0.0217 rad, x: 19.3099
+WARNING:venv:dt: 0.0050s, θ: -0.0217 rad, x: 19.3294
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0217 rad, x: 19.3489
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.3685
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.3881
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.4076
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.4272
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.4468
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.4664
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.4860
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.5056
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.5252
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.5449
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.5645
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.5842
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.6039
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.6235
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.6432
+WARNING:venv:dt: 0.0050s, θ: -0.0218 rad, x: 19.6629
+WARNING:venv:dt: 0.0050s, θ: -0.0219 rad, x: 19.6826
+WARNING:venv:dt: 0.0050s, θ: -0.0219 rad, x: 19.7023
+WARNING:venv:dt: 0.0050s, θ: -0.0219 rad, x: 19.7221
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0219 rad, x: 19.7418
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 19.7615
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 19.7813
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 19.8011
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 19.8208
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 19.8406
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 19.8604
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 19.8802
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 19.9001
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 19.9199
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 19.9397
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 19.9596
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 19.9794
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 19.9993
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 20.0192
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 20.0391
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 20.0590
+WARNING:venv:dt: 0.0050s, θ: -0.0220 rad, x: 20.0789
+WARNING:venv:dt: 0.0050s, θ: -0.0221 rad, x: 20.0988
+WARNING:venv:dt: 0.0050s, θ: -0.0221 rad, x: 20.1187
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0221 rad, x: 20.1386
+WARNING:venv:dt: 0.0050s, θ: -0.0221 rad, x: 20.1586
+WARNING:venv:dt: 0.0050s, θ: -0.0221 rad, x: 20.1785
+WARNING:venv:dt: 0.0050s, θ: -0.0221 rad, x: 20.1985
+WARNING:venv:dt: 0.0050s, θ: -0.0221 rad, x: 20.2185
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0221 rad, x: 20.2384
+WARNING:venv:dt: 0.0050s, θ: -0.0222 rad, x: 20.2584
+WARNING:venv:dt: 0.0050s, θ: -0.0222 rad, x: 20.2784
+WARNING:venv:dt: 0.0050s, θ: -0.0222 rad, x: 20.2985
+WARNING:venv:dt: 0.0050s, θ: -0.0222 rad, x: 20.3185
+WARNING:venv:dt: 0.0050s, θ: -0.0222 rad, x: 20.3385
+WARNING:venv:dt: 0.0050s, θ: -0.0222 rad, x: 20.3586
+WARNING:venv:dt: 0.0050s, θ: -0.0222 rad, x: 20.3786
+WARNING:venv:dt: 0.0050s, θ: -0.0222 rad, x: 20.3987
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0222 rad, x: 20.4187
+WARNING:venv:dt: 0.0050s, θ: -0.0222 rad, x: 20.4388
+WARNING:venv:dt: 0.0050s, θ: -0.0222 rad, x: 20.4589
+WARNING:venv:dt: 0.0050s, θ: -0.0222 rad, x: 20.4790
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.4991
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.5193
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.5394
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.5595
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.5797
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.5998
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.6200
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.6402
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.6604
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.6806
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.7008
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.7210
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.7413
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.7615
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.7818
+WARNING:venv:dt: 0.0050s, θ: -0.0223 rad, x: 20.8020
+WARNING:venv:dt: 0.0050s, θ: -0.0224 rad, x: 20.8223
+WARNING:venv:dt: 0.0050s, θ: -0.0224 rad, x: 20.8426
+WARNING:venv:dt: 0.0050s, θ: -0.0224 rad, x: 20.8629
+WARNING:venv:dt: 0.0050s, θ: -0.0224 rad, x: 20.8832
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0224 rad, x: 20.9035
+WARNING:venv:dt: 0.0050s, θ: -0.0224 rad, x: 20.9238
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 20.9441
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 20.9645
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 20.9848
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 21.0052
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 21.0255
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 21.0459
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 21.0663
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 21.0867
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 21.1071
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 21.1275
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 21.1480
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 21.1684
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 21.1889
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0225 rad, x: 21.2093
+WARNING:venv:dt: 0.0050s, θ: -0.0226 rad, x: 21.2298
+WARNING:venv:dt: 0.0050s, θ: -0.0226 rad, x: 21.2503
+WARNING:venv:dt: 0.0050s, θ: -0.0226 rad, x: 21.2708
+WARNING:venv:dt: 0.0050s, θ: -0.0226 rad, x: 21.2913
+WARNING:venv:dt: 0.0050s, θ: -0.0226 rad, x: 21.3118
+WARNING:venv:dt: 0.0050s, θ: -0.0227 rad, x: 21.3323
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0227 rad, x: 21.3528
+WARNING:venv:dt: 0.0050s, θ: -0.0227 rad, x: 21.3733
+WARNING:venv:dt: 0.0050s, θ: -0.0227 rad, x: 21.3939
+WARNING:venv:dt: 0.0050s, θ: -0.0227 rad, x: 21.4144
+WARNING:venv:dt: 0.0050s, θ: -0.0227 rad, x: 21.4350
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0227 rad, x: 21.4556
+WARNING:venv:dt: 0.0050s, θ: -0.0227 rad, x: 21.4762
+WARNING:venv:dt: 0.0050s, θ: -0.0227 rad, x: 21.4968
+WARNING:venv:dt: 0.0050s, θ: -0.0227 rad, x: 21.5174
+WARNING:venv:dt: 0.0050s, θ: -0.0227 rad, x: 21.5380
+WARNING:venv:dt: 0.0050s, θ: -0.0227 rad, x: 21.5586
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0228 rad, x: 21.5793
+WARNING:venv:dt: 0.0050s, θ: -0.0228 rad, x: 21.5999
+WARNING:venv:dt: 0.0050s, θ: -0.0228 rad, x: 21.6206
+WARNING:venv:dt: 0.0050s, θ: -0.0228 rad, x: 21.6412
+WARNING:venv:dt: 0.0050s, θ: -0.0228 rad, x: 21.6619
+WARNING:venv:dt: 0.0050s, θ: -0.0228 rad, x: 21.6826
+WARNING:venv:dt: 0.0050s, θ: -0.0228 rad, x: 21.7033
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.7240
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.7447
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.7654
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.7862
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.8069
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.8277
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.8484
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.8692
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.8900
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.9108
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.9316
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.9524
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.9732
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 21.9941
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 22.0149
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 22.0357
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 22.0566
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 22.0775
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 22.0984
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 22.1193
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 22.1402
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 22.1611
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 22.1820
+WARNING:venv:dt: 0.0050s, θ: -0.0229 rad, x: 22.2029
+WARNING:venv:dt: 0.0050s, θ: -0.0230 rad, x: 22.2239
+WARNING:venv:dt: 0.0050s, θ: -0.0230 rad, x: 22.2448
+WARNING:venv:dt: 0.0050s, θ: -0.0230 rad, x: 22.2658
+WARNING:venv:dt: 0.0050s, θ: -0.0230 rad, x: 22.2867
+WARNING:venv:dt: 0.0050s, θ: -0.0230 rad, x: 22.3077
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0230 rad, x: 22.3287
+WARNING:venv:dt: 0.0050s, θ: -0.0230 rad, x: 22.3497
+WARNING:venv:dt: 0.0050s, θ: -0.0230 rad, x: 22.3707
+WARNING:venv:dt: 0.0050s, θ: -0.0230 rad, x: 22.3917
+WARNING:venv:dt: 0.0050s, θ: -0.0230 rad, x: 22.4128
+WARNING:venv:dt: 0.0050s, θ: -0.0230 rad, x: 22.4338
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0230 rad, x: 22.4549
+WARNING:venv:dt: 0.0050s, θ: -0.0230 rad, x: 22.4759
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.4970
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.5181
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.5391
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.5602
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.5814
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.6025
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.6236
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.6447
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.6659
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.6871
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.7082
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.7294
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.7506
+WARNING:venv:dt: 0.0050s, θ: -0.0231 rad, x: 22.7718
+WARNING:venv:dt: 0.0050s, θ: -0.0232 rad, x: 22.7930
+WARNING:venv:dt: 0.0050s, θ: -0.0232 rad, x: 22.8142
+WARNING:venv:dt: 0.0050s, θ: -0.0232 rad, x: 22.8354
+WARNING:venv:dt: 0.0050s, θ: -0.0232 rad, x: 22.8567
+WARNING:venv:dt: 0.0050s, θ: -0.0232 rad, x: 22.8779
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0232 rad, x: 22.8992
+WARNING:venv:dt: 0.0050s, θ: -0.0232 rad, x: 22.9204
+WARNING:venv:dt: 0.0050s, θ: -0.0232 rad, x: 22.9417
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 22.9630
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 22.9843
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 23.0056
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 23.0269
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 23.0483
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 23.0696
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 23.0909
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 23.1123
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 23.1337
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 23.1550
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 23.1764
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 23.1978
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 23.2192
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 23.2407
+WARNING:venv:dt: 0.0050s, θ: -0.0233 rad, x: 23.2621
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0234 rad, x: 23.2835
+WARNING:venv:dt: 0.0050s, θ: -0.0234 rad, x: 23.3050
+WARNING:venv:dt: 0.0050s, θ: -0.0234 rad, x: 23.3264
+WARNING:venv:dt: 0.0050s, θ: -0.0234 rad, x: 23.3479
+WARNING:venv:dt: 0.0050s, θ: -0.0234 rad, x: 23.3694
+WARNING:venv:dt: 0.0050s, θ: -0.0234 rad, x: 23.3908
+WARNING:venv:dt: 0.0050s, θ: -0.0234 rad, x: 23.4123
+WARNING:venv:dt: 0.0050s, θ: -0.0234 rad, x: 23.4338
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0234 rad, x: 23.4553
+WARNING:venv:dt: 0.0050s, θ: -0.0235 rad, x: 23.4769
+WARNING:venv:dt: 0.0050s, θ: -0.0235 rad, x: 23.4984
+WARNING:venv:dt: 0.0050s, θ: -0.0235 rad, x: 23.5199
+WARNING:venv:dt: 0.0050s, θ: -0.0235 rad, x: 23.5415
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0235 rad, x: 23.5631
+WARNING:venv:dt: 0.0050s, θ: -0.0235 rad, x: 23.5846
+WARNING:venv:dt: 0.0050s, θ: -0.0235 rad, x: 23.6062
+WARNING:venv:dt: 0.0050s, θ: -0.0235 rad, x: 23.6278
+WARNING:venv:dt: 0.0050s, θ: -0.0235 rad, x: 23.6494
+WARNING:venv:dt: 0.0050s, θ: -0.0236 rad, x: 23.6710
+WARNING:venv:dt: 0.0050s, θ: -0.0236 rad, x: 23.6927
+WARNING:venv:dt: 0.0050s, θ: -0.0236 rad, x: 23.7143
+WARNING:venv:dt: 0.0050s, θ: -0.0236 rad, x: 23.7359
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0236 rad, x: 23.7576
+WARNING:venv:dt: 0.0050s, θ: -0.0236 rad, x: 23.7793
+WARNING:venv:dt: 0.0050s, θ: -0.0236 rad, x: 23.8009
+WARNING:venv:dt: 0.0050s, θ: -0.0236 rad, x: 23.8226
+WARNING:venv:dt: 0.0050s, θ: -0.0237 rad, x: 23.8443
+WARNING:venv:dt: 0.0050s, θ: -0.0237 rad, x: 23.8660
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0237 rad, x: 23.8877
+WARNING:venv:dt: 0.0050s, θ: -0.0237 rad, x: 23.9094
+WARNING:venv:dt: 0.0050s, θ: -0.0237 rad, x: 23.9311
+WARNING:venv:dt: 0.0050s, θ: -0.0237 rad, x: 23.9529
+WARNING:venv:dt: 0.0050s, θ: -0.0237 rad, x: 23.9746
+WARNING:venv:dt: 0.0050s, θ: -0.0237 rad, x: 23.9964
+WARNING:venv:dt: 0.0050s, θ: -0.0238 rad, x: 24.0182
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0238 rad, x: 24.0399
+WARNING:venv:dt: 0.0050s, θ: -0.0238 rad, x: 24.0617
+WARNING:venv:dt: 0.0050s, θ: -0.0238 rad, x: 24.0835
+WARNING:venv:dt: 0.0050s, θ: -0.0238 rad, x: 24.1053
+WARNING:venv:dt: 0.0050s, θ: -0.0238 rad, x: 24.1272
+WARNING:venv:dt: 0.0050s, θ: -0.0238 rad, x: 24.1490
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0239 rad, x: 24.1708
+WARNING:venv:dt: 0.0050s, θ: -0.0239 rad, x: 24.1927
+WARNING:venv:dt: 0.0050s, θ: -0.0239 rad, x: 24.2145
+WARNING:venv:dt: 0.0050s, θ: -0.0239 rad, x: 24.2364
+WARNING:venv:dt: 0.0050s, θ: -0.0239 rad, x: 24.2583
+WARNING:venv:dt: 0.0050s, θ: -0.0239 rad, x: 24.2802
+WARNING:venv:dt: 0.0050s, θ: -0.0239 rad, x: 24.3021
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0239 rad, x: 24.3240
+WARNING:venv:dt: 0.0050s, θ: -0.0240 rad, x: 24.3459
+WARNING:venv:dt: 0.0050s, θ: -0.0240 rad, x: 24.3678
+WARNING:venv:dt: 0.0050s, θ: -0.0240 rad, x: 24.3897
+WARNING:venv:dt: 0.0050s, θ: -0.0240 rad, x: 24.4117
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0240 rad, x: 24.4336
+WARNING:venv:dt: 0.0050s, θ: -0.0241 rad, x: 24.4556
+WARNING:venv:dt: 0.0050s, θ: -0.0241 rad, x: 24.4776
+WARNING:venv:dt: 0.0050s, θ: -0.0241 rad, x: 24.4996
+WARNING:venv:dt: 0.0050s, θ: -0.0241 rad, x: 24.5216
+WARNING:venv:dt: 0.0050s, θ: -0.0241 rad, x: 24.5436
+WARNING:venv:dt: 0.0050s, θ: -0.0241 rad, x: 24.5656
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.5876
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.6096
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.6317
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.6538
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.6759
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.6980
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.7202
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.7423
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.7645
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.7866
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.8088
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.8310
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.8532
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.8754
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.8976
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.9198
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.9421
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.9643
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 24.9866
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 25.0088
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0242 rad, x: 25.0311
+WARNING:venv:dt: 0.0050s, θ: -0.0243 rad, x: 25.0534
+WARNING:venv:dt: 0.0050s, θ: -0.0243 rad, x: 25.0757
+WARNING:venv:dt: 0.0050s, θ: -0.0243 rad, x: 25.0980
+WARNING:venv:dt: 0.0050s, θ: -0.0243 rad, x: 25.1203
+WARNING:venv:dt: 0.0050s, θ: -0.0243 rad, x: 25.1426
+WARNING:venv:dt: 0.0050s, θ: -0.0243 rad, x: 25.1650
+WARNING:venv:dt: 0.0050s, θ: -0.0243 rad, x: 25.1873
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0243 rad, x: 25.2097
+WARNING:venv:dt: 0.0050s, θ: -0.0243 rad, x: 25.2320
+WARNING:venv:dt: 0.0050s, θ: -0.0244 rad, x: 25.2544
+WARNING:venv:dt: 0.0050s, θ: -0.0244 rad, x: 25.2768
+WARNING:venv:dt: 0.0050s, θ: -0.0244 rad, x: 25.2992
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0244 rad, x: 25.3216
+WARNING:venv:dt: 0.0050s, θ: -0.0244 rad, x: 25.3440
+WARNING:venv:dt: 0.0050s, θ: -0.0244 rad, x: 25.3664
+WARNING:venv:dt: 0.0050s, θ: -0.0244 rad, x: 25.3888
+WARNING:venv:dt: 0.0050s, θ: -0.0244 rad, x: 25.4113
+WARNING:venv:dt: 0.0050s, θ: -0.0244 rad, x: 25.4337
+WARNING:venv:dt: 0.0050s, θ: -0.0244 rad, x: 25.4562
+WARNING:venv:dt: 0.0050s, θ: -0.0244 rad, x: 25.4787
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0245 rad, x: 25.5012
+WARNING:venv:dt: 0.0050s, θ: -0.0245 rad, x: 25.5237
+WARNING:venv:dt: 0.0050s, θ: -0.0245 rad, x: 25.5462
+WARNING:venv:dt: 0.0050s, θ: -0.0245 rad, x: 25.5687
+WARNING:venv:dt: 0.0050s, θ: -0.0245 rad, x: 25.5912
+WARNING:venv:dt: 0.0050s, θ: -0.0245 rad, x: 25.6137
+WARNING:venv:dt: 0.0050s, θ: -0.0245 rad, x: 25.6363
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0245 rad, x: 25.6588
+WARNING:venv:dt: 0.0050s, θ: -0.0245 rad, x: 25.6814
+WARNING:venv:dt: 0.0050s, θ: -0.0246 rad, x: 25.7040
+WARNING:venv:dt: 0.0050s, θ: -0.0246 rad, x: 25.7266
+WARNING:venv:dt: 0.0050s, θ: -0.0246 rad, x: 25.7492
+WARNING:venv:dt: 0.0050s, θ: -0.0246 rad, x: 25.7718
+WARNING:venv:dt: 0.0050s, θ: -0.0246 rad, x: 25.7944
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0246 rad, x: 25.8170
+WARNING:venv:dt: 0.0050s, θ: -0.0246 rad, x: 25.8396
+WARNING:venv:dt: 0.0050s, θ: -0.0246 rad, x: 25.8623
+WARNING:venv:dt: 0.0050s, θ: -0.0246 rad, x: 25.8849
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0247 rad, x: 25.9076
+WARNING:venv:dt: 0.0050s, θ: -0.0247 rad, x: 25.9303
+WARNING:venv:dt: 0.0050s, θ: -0.0247 rad, x: 25.9530
+WARNING:venv:dt: 0.0050s, θ: -0.0247 rad, x: 25.9757
+WARNING:venv:dt: 0.0050s, θ: -0.0247 rad, x: 25.9984
+WARNING:venv:dt: 0.0050s, θ: -0.0247 rad, x: 26.0211
+WARNING:venv:dt: 0.0050s, θ: -0.0247 rad, x: 26.0438
+WARNING:venv:dt: 0.0050s, θ: -0.0248 rad, x: 26.0666
+WARNING:venv:dt: 0.0050s, θ: -0.0248 rad, x: 26.0893
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0248 rad, x: 26.1121
+WARNING:venv:dt: 0.0050s, θ: -0.0248 rad, x: 26.1348
+WARNING:venv:dt: 0.0050s, θ: -0.0248 rad, x: 26.1576
+WARNING:venv:dt: 0.0050s, θ: -0.0248 rad, x: 26.1804
+WARNING:venv:dt: 0.0050s, θ: -0.0249 rad, x: 26.2032
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0249 rad, x: 26.2260
+WARNING:venv:dt: 0.0050s, θ: -0.0249 rad, x: 26.2488
+WARNING:venv:dt: 0.0050s, θ: -0.0249 rad, x: 26.2716
+WARNING:venv:dt: 0.0050s, θ: -0.0249 rad, x: 26.2944
+WARNING:venv:dt: 0.0050s, θ: -0.0250 rad, x: 26.3173
+WARNING:venv:dt: 0.0050s, θ: -0.0250 rad, x: 26.3401
+WARNING:venv:dt: 0.0050s, θ: -0.0250 rad, x: 26.3630
+WARNING:venv:dt: 0.0050s, θ: -0.0250 rad, x: 26.3859
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0250 rad, x: 26.4088
+WARNING:venv:dt: 0.0050s, θ: -0.0250 rad, x: 26.4317
+WARNING:venv:dt: 0.0050s, θ: -0.0250 rad, x: 26.4546
+WARNING:venv:dt: 0.0050s, θ: -0.0251 rad, x: 26.4775
+WARNING:venv:dt: 0.0050s, θ: -0.0251 rad, x: 26.5004
+WARNING:venv:dt: 0.0050s, θ: -0.0251 rad, x: 26.5233
+WARNING:venv:dt: 0.0050s, θ: -0.0251 rad, x: 26.5463
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0251 rad, x: 26.5693
+WARNING:venv:dt: 0.0050s, θ: -0.0251 rad, x: 26.5922
+WARNING:venv:dt: 0.0050s, θ: -0.0251 rad, x: 26.6152
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.6382
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.6612
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.6842
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.7072
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.7302
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.7532
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.7763
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.7994
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.8224
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.8455
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.8686
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.8917
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.9148
+WARNING:venv:dt: 0.0050s, θ: -0.0252 rad, x: 26.9379
+WARNING:venv:dt: 0.0050s, θ: -0.0253 rad, x: 26.9610
+WARNING:venv:dt: 0.0050s, θ: -0.0253 rad, x: 26.9842
+WARNING:venv:dt: 0.0050s, θ: -0.0253 rad, x: 27.0073
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0253 rad, x: 27.0305
+WARNING:venv:dt: 0.0050s, θ: -0.0253 rad, x: 27.0536
+WARNING:venv:dt: 0.0050s, θ: -0.0253 rad, x: 27.0768
+WARNING:venv:dt: 0.0050s, θ: -0.0253 rad, x: 27.1000
+WARNING:venv:dt: 0.0050s, θ: -0.0253 rad, x: 27.1232
+WARNING:venv:dt: 0.0050s, θ: -0.0254 rad, x: 27.1464
+WARNING:venv:dt: 0.0050s, θ: -0.0254 rad, x: 27.1696
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0254 rad, x: 27.1928
+WARNING:venv:dt: 0.0050s, θ: -0.0254 rad, x: 27.2161
+WARNING:venv:dt: 0.0050s, θ: -0.0254 rad, x: 27.2393
+WARNING:venv:dt: 0.0050s, θ: -0.0254 rad, x: 27.2626
+WARNING:venv:dt: 0.0050s, θ: -0.0254 rad, x: 27.2859
+WARNING:venv:dt: 0.0050s, θ: -0.0254 rad, x: 27.3091
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0255 rad, x: 27.3324
+WARNING:venv:dt: 0.0050s, θ: -0.0255 rad, x: 27.3557
+WARNING:venv:dt: 0.0050s, θ: -0.0255 rad, x: 27.3790
+WARNING:venv:dt: 0.0050s, θ: -0.0255 rad, x: 27.4023
+WARNING:venv:dt: 0.0050s, θ: -0.0255 rad, x: 27.4257
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0255 rad, x: 27.4490
+WARNING:venv:dt: 0.0050s, θ: -0.0255 rad, x: 27.4723
+WARNING:venv:dt: 0.0050s, θ: -0.0256 rad, x: 27.4957
+WARNING:venv:dt: 0.0050s, θ: -0.0256 rad, x: 27.5191
+WARNING:venv:dt: 0.0050s, θ: -0.0256 rad, x: 27.5424
+WARNING:venv:dt: 0.0050s, θ: -0.0256 rad, x: 27.5658
+WARNING:venv:dt: 0.0050s, θ: -0.0256 rad, x: 27.5892
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0256 rad, x: 27.6126
+WARNING:venv:dt: 0.0050s, θ: -0.0256 rad, x: 27.6360
+WARNING:venv:dt: 0.0050s, θ: -0.0256 rad, x: 27.6595
+WARNING:venv:dt: 0.0050s, θ: -0.0257 rad, x: 27.6829
+WARNING:venv:dt: 0.0050s, θ: -0.0257 rad, x: 27.7063
+WARNING:venv:dt: 0.0050s, θ: -0.0257 rad, x: 27.7298
+WARNING:venv:dt: 0.0050s, θ: -0.0257 rad, x: 27.7533
+WARNING:venv:dt: 0.0050s, θ: -0.0257 rad, x: 27.7767
+WARNING:venv:dt: 0.0050s, θ: -0.0257 rad, x: 27.8002
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0257 rad, x: 27.8237
+WARNING:venv:dt: 0.0050s, θ: -0.0257 rad, x: 27.8472
+WARNING:venv:dt: 0.0050s, θ: -0.0257 rad, x: 27.8707
+WARNING:venv:dt: 0.0050s, θ: -0.0257 rad, x: 27.8943
+WARNING:venv:dt: 0.0050s, θ: -0.0258 rad, x: 27.9178
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0258 rad, x: 27.9413
+WARNING:venv:dt: 0.0050s, θ: -0.0258 rad, x: 27.9649
+WARNING:venv:dt: 0.0050s, θ: -0.0258 rad, x: 27.9884
+WARNING:venv:dt: 0.0050s, θ: -0.0258 rad, x: 28.0120
+WARNING:venv:dt: 0.0050s, θ: -0.0258 rad, x: 28.0356
+WARNING:venv:dt: 0.0050s, θ: -0.0258 rad, x: 28.0592
+WARNING:venv:dt: 0.0050s, θ: -0.0258 rad, x: 28.0828
+WARNING:venv:dt: 0.0050s, θ: -0.0258 rad, x: 28.1064
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.1300
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.1537
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.1773
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.2010
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.2246
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.2483
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.2720
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.2957
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.3194
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.3431
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.3668
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.3905
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.4143
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0259 rad, x: 28.4380
+WARNING:venv:dt: 0.0050s, θ: -0.0260 rad, x: 28.4618
+WARNING:venv:dt: 0.0050s, θ: -0.0260 rad, x: 28.4855
+WARNING:venv:dt: 0.0050s, θ: -0.0260 rad, x: 28.5093
+WARNING:venv:dt: 0.0050s, θ: -0.0260 rad, x: 28.5331
+WARNING:venv:dt: 0.0050s, θ: -0.0260 rad, x: 28.5569
+WARNING:venv:dt: 0.0050s, θ: -0.0260 rad, x: 28.5807
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0260 rad, x: 28.6045
+WARNING:venv:dt: 0.0050s, θ: -0.0260 rad, x: 28.6284
+WARNING:venv:dt: 0.0050s, θ: -0.0260 rad, x: 28.6522
+WARNING:venv:dt: 0.0050s, θ: -0.0260 rad, x: 28.6760
+WARNING:venv:dt: 0.0050s, θ: -0.0260 rad, x: 28.6999
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0261 rad, x: 28.7238
+WARNING:venv:dt: 0.0050s, θ: -0.0261 rad, x: 28.7476
+WARNING:venv:dt: 0.0050s, θ: -0.0261 rad, x: 28.7715
+WARNING:venv:dt: 0.0050s, θ: -0.0261 rad, x: 28.7954
+WARNING:venv:dt: 0.0050s, θ: -0.0261 rad, x: 28.8193
+WARNING:venv:dt: 0.0050s, θ: -0.0261 rad, x: 28.8433
+WARNING:venv:dt: 0.0050s, θ: -0.0261 rad, x: 28.8672
+WARNING:venv:dt: 0.0050s, θ: -0.0262 rad, x: 28.8911
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0262 rad, x: 28.9151
+WARNING:venv:dt: 0.0050s, θ: -0.0262 rad, x: 28.9390
+WARNING:venv:dt: 0.0050s, θ: -0.0262 rad, x: 28.9630
+WARNING:venv:dt: 0.0050s, θ: -0.0262 rad, x: 28.9870
+WARNING:venv:dt: 0.0050s, θ: -0.0262 rad, x: 29.0110
+WARNING:venv:dt: 0.0050s, θ: -0.0262 rad, x: 29.0350
+WARNING:venv:dt: 0.0050s, θ: -0.0262 rad, x: 29.0590
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0263 rad, x: 29.0830
+WARNING:venv:dt: 0.0050s, θ: -0.0263 rad, x: 29.1070
+WARNING:venv:dt: 0.0050s, θ: -0.0263 rad, x: 29.1311
+WARNING:venv:dt: 0.0050s, θ: -0.0263 rad, x: 29.1551
+WARNING:venv:dt: 0.0050s, θ: -0.0263 rad, x: 29.1792
+WARNING:venv:dt: 0.0050s, θ: -0.0263 rad, x: 29.2032
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0264 rad, x: 29.2273
+WARNING:venv:dt: 0.0050s, θ: -0.0264 rad, x: 29.2514
+WARNING:venv:dt: 0.0050s, θ: -0.0264 rad, x: 29.2754
+WARNING:venv:dt: 0.0050s, θ: -0.0264 rad, x: 29.2995
+WARNING:venv:dt: 0.0050s, θ: -0.0264 rad, x: 29.3236
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0264 rad, x: 29.3477
+WARNING:venv:dt: 0.0050s, θ: -0.0265 rad, x: 29.3718
+WARNING:venv:dt: 0.0050s, θ: -0.0265 rad, x: 29.3960
+WARNING:venv:dt: 0.0050s, θ: -0.0265 rad, x: 29.4201
+WARNING:venv:dt: 0.0050s, θ: -0.0265 rad, x: 29.4443
+WARNING:venv:dt: 0.0050s, θ: -0.0265 rad, x: 29.4684
+WARNING:venv:dt: 0.0050s, θ: -0.0265 rad, x: 29.4926
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0265 rad, x: 29.5168
+WARNING:venv:dt: 0.0050s, θ: -0.0266 rad, x: 29.5410
+WARNING:venv:dt: 0.0050s, θ: -0.0266 rad, x: 29.5652
+WARNING:venv:dt: 0.0050s, θ: -0.0266 rad, x: 29.5894
+WARNING:venv:dt: 0.0050s, θ: -0.0266 rad, x: 29.6136
+WARNING:venv:dt: 0.0050s, θ: -0.0266 rad, x: 29.6378
+WARNING:venv:dt: 0.0050s, θ: -0.0266 rad, x: 29.6621
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0266 rad, x: 29.6863
+WARNING:venv:dt: 0.0050s, θ: -0.0267 rad, x: 29.7106
+WARNING:venv:dt: 0.0050s, θ: -0.0267 rad, x: 29.7349
+WARNING:venv:dt: 0.0050s, θ: -0.0267 rad, x: 29.7592
+WARNING:venv:dt: 0.0050s, θ: -0.0267 rad, x: 29.7835
+WARNING:venv:dt: 0.0050s, θ: -0.0267 rad, x: 29.8078
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0267 rad, x: 29.8321
+WARNING:venv:dt: 0.0050s, θ: -0.0267 rad, x: 29.8564
+WARNING:venv:dt: 0.0050s, θ: -0.0267 rad, x: 29.8807
+WARNING:venv:dt: 0.0050s, θ: -0.0267 rad, x: 29.9051
+WARNING:venv:dt: 0.0050s, θ: -0.0267 rad, x: 29.9294
+WARNING:venv:dt: 0.0050s, θ: -0.0267 rad, x: 29.9538
+WARNING:venv:dt: 0.0050s, θ: -0.0267 rad, x: 29.9781
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0268 rad, x: 30.0025
+WARNING:venv:dt: 0.0050s, θ: -0.0268 rad, x: 30.0269
+WARNING:venv:dt: 0.0050s, θ: -0.0268 rad, x: 30.0513
+WARNING:venv:dt: 0.0050s, θ: -0.0268 rad, x: 30.0757
+WARNING:venv:dt: 0.0050s, θ: -0.0268 rad, x: 30.1002
+WARNING:venv:dt: 0.0050s, θ: -0.0268 rad, x: 30.1246
+WARNING:venv:dt: 0.0050s, θ: -0.0268 rad, x: 30.1490
+WARNING:venv:dt: 0.0050s, θ: -0.0268 rad, x: 30.1735
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0268 rad, x: 30.1979
+WARNING:venv:dt: 0.0050s, θ: -0.0268 rad, x: 30.2224
+WARNING:venv:dt: 0.0050s, θ: -0.0269 rad, x: 30.2469
+WARNING:venv:dt: 0.0050s, θ: -0.0269 rad, x: 30.2714
+WARNING:venv:dt: 0.0050s, θ: -0.0269 rad, x: 30.2959
+WARNING:venv:dt: 0.0050s, θ: -0.0269 rad, x: 30.3204
+WARNING:venv:dt: 0.0050s, θ: -0.0269 rad, x: 30.3449
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0269 rad, x: 30.3694
+WARNING:venv:dt: 0.0050s, θ: -0.0269 rad, x: 30.3940
+WARNING:venv:dt: 0.0050s, θ: -0.0270 rad, x: 30.4185
+WARNING:venv:dt: 0.0050s, θ: -0.0270 rad, x: 30.4431
+WARNING:venv:dt: 0.0050s, θ: -0.0270 rad, x: 30.4676
+WARNING:venv:dt: 0.0050s, θ: -0.0270 rad, x: 30.4922
+WARNING:venv:dt: 0.0050s, θ: -0.0270 rad, x: 30.5168
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.5414
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.5660
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.5906
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.6153
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.6399
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.6645
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.6892
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.7139
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.7385
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.7632
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.7879
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.8126
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.8374
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0271 rad, x: 30.8621
+WARNING:venv:dt: 0.0050s, θ: -0.0272 rad, x: 30.8868
+WARNING:venv:dt: 0.0050s, θ: -0.0272 rad, x: 30.9116
+WARNING:venv:dt: 0.0050s, θ: -0.0272 rad, x: 30.9363
+WARNING:venv:dt: 0.0050s, θ: -0.0272 rad, x: 30.9611
+WARNING:venv:dt: 0.0050s, θ: -0.0272 rad, x: 30.9859
+WARNING:venv:dt: 0.0050s, θ: -0.0272 rad, x: 31.0106
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0272 rad, x: 31.0354
+WARNING:venv:dt: 0.0050s, θ: -0.0272 rad, x: 31.0602
+WARNING:venv:dt: 0.0050s, θ: -0.0272 rad, x: 31.0851
+WARNING:venv:dt: 0.0050s, θ: -0.0272 rad, x: 31.1099
+WARNING:venv:dt: 0.0050s, θ: -0.0272 rad, x: 31.1347
+WARNING:venv:dt: 0.0050s, θ: -0.0273 rad, x: 31.1596
+WARNING:root:Initializing Null State Camera Frame Null : False and imu state is Null : False Right Encoder is Null True Left Encoder is Null True
+WARNING:venv:dt: 0.0050s, θ: -0.0273 rad, x: 31.1844
+WARNING:venv:dt: 0.0050s, θ: -0.0273 rad, x: 31.2093
+WARNING:venv:dt: 0.0050s, θ: -0.0273 rad, x: 31.2341
+WARNING:venv:dt: 0.0050s, θ: -0.0274 rad, x: 31.2590
+WARNING:venv:dt: 0.0050s, θ: -0.0274 rad, x: 31.2839
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized
+WARNING:root:Fusion Node Initialized

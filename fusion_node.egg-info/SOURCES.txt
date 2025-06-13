@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+fusion_node.egg-info/PKG-INFO
+fusion_node.egg-info/SOURCES.txt
+fusion_node.egg-info/dependency_links.txt
+fusion_node.egg-info/entry_points.txt
+fusion_node.egg-info/requires.txt
+fusion_node.egg-info/top_level.txt
+fusion_node.egg-info/zip-safe
