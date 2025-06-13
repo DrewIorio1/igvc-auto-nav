@@ -122,3 +122,12 @@ trajectory-msgs==4.8.0
 transforms3d==0.3.1
 ultralytics==8.3.143
 ultralytics-thop==2.0.14
+
+
+Folder structure 
+-	Build: The assembly of the directory for ROS2.
+-	fusion_node: The primary execution of the fusion process.  
+-	Install: Install from the Robot Operating System (ROS) process.
+-	Launch: Housing ROS launch files
+-	Models: The models that will be executed during the final implementation. 
+
