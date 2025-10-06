@@ -1,6 +1,6 @@
 ## Overview
 
-The following code was developed for the 2025 IGVC auto navigation competition. It commenced in March 2025, with the objective of completion by the end of May 2025. The code is implemented in Python as a fusion node to perform lane following, object detection, map finding utilizing RRT*, waypoint navigation, and velocity commands for two motors. It was written at the University of Bridgeport with support and assistance from Ali Hamadeen and Rudra Mitra (https://githum.com/rmitra2001). 
+The following code was developed for the 2025 IGVC auto navigation competition. It commenced in March 2025, with the objective of completion by the end of May 2025. The code is implemented in Python as a fusion node to perform lane following, object detection, map finding utilizing RRT*, waypoint navigation, and velocity commands for two motors. It was written at the University of Bridgeport with support and assistance from Ali Hamadeen and Rudra Mitra (https://github.com/rmitra2001). 
 
 ![image](https://github.com/user-attachments/assets/9a785ec3-88bb-4d29-98a0-2ad5f02fa4b9)
 
